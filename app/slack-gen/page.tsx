@@ -122,6 +122,13 @@ export default function SlackGenerator() {
       avatar: '',
     };
     setUsers([...users, newUser]);
+    // Also add a direct message entry for the new user
+    const newDM: DirectMessage = {
+      id: Date.now().toString(),
+      userId: newUser.id,
+      isOnline: true,
+    };
+    setDirectMessages([...directMessages, newDM]);
   };
 
   const updateUser = (id: string, updates: Partial<User>) => {
@@ -131,6 +138,8 @@ export default function SlackGenerator() {
   const deleteUser = (id: string) => {
     setUsers(users.filter(u => u.id !== id));
     setMessages(messages.filter(m => m.userId !== id));
+    // Also remove the corresponding direct message entry
+    setDirectMessages(directMessages.filter(dm => dm.userId !== id));
   };
 
   const addChannel = (isPrivate: boolean) => {
