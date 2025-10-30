@@ -39,7 +39,7 @@ export async function POST(request: Request) {
 
         // Override window.open to capture URLs
         const originalOpen = window.open;
-        window.open = function(url: string | URL | undefined, target?: string, features?: string) {
+        window.open = function(this: Window, url: string | URL | undefined, target?: string, features?: string) {
           if (url) {
             capturedUrls.push(url.toString());
           }
