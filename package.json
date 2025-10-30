@@ -12,6 +12,7 @@
     "html-to-image": "^1.11.13",
     "next": "16.0.0",
     "openai": "^6.6.0",
+    "puppeteer": "^24.26.1",
     "react": "19.2.0",
     "react-dom": "19.2.0"
   },

@@ -14,6 +14,12 @@ const tools: Tool[] = [
     href: "/slack-gen",
     icon: "💬",
   },
+  {
+    name: "X Radar Post Scraper",
+    description: "Extract post URLs from X Radar feeds using your logged-in browser session.",
+    href: "/x-radar",
+    icon: "🎯",
+  },
   // Add more tools here as you build them
 ];
 
