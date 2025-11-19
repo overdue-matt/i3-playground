@@ -14,6 +14,7 @@ const MORNING_URLS = [
   'https://x.com/eth_strategy',
   'https://x.com/TheCryptoLark',
   'https://x.com/meanwhile',
+  'https://x.com/ztownsend',
 ];
 
 export default function MorningUrlsPage() {
