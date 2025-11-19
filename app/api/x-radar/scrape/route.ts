@@ -76,7 +76,7 @@ export async function POST(request: Request) {
 
           (postCards[clickIndex] as HTMLElement).click();
           clickIndex++;
-          setTimeout(clickNext, 500);
+          setTimeout(clickNext, 200);
         }
 
         // Start clicking
