@@ -6,7 +6,6 @@ const MORNING_URLS = [
   'https://x.com/HNTbandit',
   'https://x.com/SharpLink',
   'https://x.com/joechalom',
-  'https://x.com/OndoFinance',
   'https://x.com/ventuals',
   'https://x.com/LiteStrategy',
   'https://x.com/BadgerDAO',
