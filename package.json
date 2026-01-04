@@ -10,11 +10,13 @@
   },
   "dependencies": {
     "html-to-image": "^1.11.13",
-    "next": "16.0.0",
+    "next": "^16.1.1",
     "openai": "^6.6.0",
     "puppeteer": "^24.26.1",
     "react": "19.2.0",
-    "react-dom": "19.2.0"
+    "react-dom": "19.2.0",
+    "recharts": "^3.5.1",
+    "yahoo-finance2": "^2.12.3"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",

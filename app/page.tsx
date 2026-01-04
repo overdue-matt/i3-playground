@@ -20,6 +20,12 @@ const tools: Tool[] = [
     href: "/x-radar",
     icon: "🎯",
   },
+  {
+    name: "Jupiter Audit",
+    description: "Fetch and save X/Twitter posts or replies for competitive analysis using the Twitter API.",
+    href: "/jupiter-audit",
+    icon: "🔍",
+  },
   // Add more tools here as you build them
 ];
 
