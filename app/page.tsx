@@ -26,6 +26,12 @@ const tools: Tool[] = [
     href: "/jupiter-audit",
     icon: "🔍",
   },
+  {
+    name: "Ventuals - MAG7 Breakdown",
+    description: "Interactive visualization of MAG7 market cap evolution over the past decade with animated pie charts.",
+    href: "/ventuals",
+    icon: "📊",
+  },
   // Add more tools here as you build them
 ];
 

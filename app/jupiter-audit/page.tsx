@@ -133,8 +133,8 @@ export default function JupiterAudit() {
       return;
     }
 
-    if (count < 1 || count > 100) {
-      setError('Count must be between 1 and 100');
+    if (count < 1 || count > 3200) {
+      setError('Count must be between 1 and 3200');
       return;
     }
 
@@ -221,14 +221,14 @@ export default function JupiterAudit() {
             {/* Count Input */}
             <div>
               <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
-                Number of {fetchType === 'posts' ? 'Posts' : 'Replies'} (1-100)
+                Number of {fetchType === 'posts' ? 'Posts' : 'Replies'} (1-3200)
               </label>
               <input
                 type="number"
                 value={count}
                 onChange={(e) => setCount(parseInt(e.target.value) || 10)}
                 min="1"
-                max="100"
+                max="3200"
                 className="w-full px-4 py-3 border border-gray-300 dark:border-gray-600 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent dark:bg-gray-700 dark:text-white"
               />
             </div>
@@ -287,9 +287,11 @@ export default function JupiterAudit() {
           <ul className="space-y-2 text-sm text-blue-800 dark:text-blue-400">
             <li>1. Paste an X.com profile URL (e.g., https://x.com/phantom)</li>
             <li>2. Choose whether to fetch posts or replies</li>
-            <li>3. Set how many items to fetch (default: 10, max: 100)</li>
-            <li>4. Data is automatically saved to <code className="bg-blue-100 dark:bg-blue-900/40 px-1 rounded">data/jupiter-audit/</code></li>
-            <li>5. Files are named with username, type, and timestamp for easy tracking</li>
+            <li>3. Set how many items to fetch (default: 10, max: 3200)</li>
+            <li>4. <strong>Posts:</strong> Fetches the most recent original posts</li>
+            <li>5. <strong>Replies:</strong> Samples ~10 replies per day across time (e.g., 500 replies = ~50 days of history)</li>
+            <li>6. Data is automatically saved to <code className="bg-blue-100 dark:bg-blue-900/40 px-1 rounded">data/jupiter-audit/</code></li>
+            <li>7. Files are named with username, type, and timestamp for easy tracking</li>
           </ul>
         </div>
 

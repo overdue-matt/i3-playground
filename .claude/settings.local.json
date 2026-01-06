@@ -1,18 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(npm uninstall:*)",
-      "Bash(npm install:*)",
-      "WebFetch(domain:developer.twitter.com)",
-      "WebFetch(domain:developer.x.com)",
-      "WebFetch(domain:docs.x.com)",
-      "Bash(mkdir:*)",
-      "Bash(npm run dev:*)",
-      "Bash(timeout 3 bash:*)",
-      "Bash(node scripts/fetch-mag7-data.js:*)",
-      "Bash(npx tsx:*)"
-    ],
-    "deny": [],
-    "ask": []
+      "Bash(cat:*)",
+      "Bash(node -e:*)"
+    ]
   }
 }

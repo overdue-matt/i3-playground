@@ -12,6 +12,15 @@ interface TwitterCardProps {
       impression_count?: number;
     };
     author_id?: string;
+    media?: Array<{
+      media_key: string;
+      type: string;
+      url?: string;
+      preview_image_url?: string;
+      width?: number;
+      height?: number;
+      alt_text?: string;
+    }>;
     [key: string]: any;
   };
   username: string;
@@ -51,31 +60,98 @@ export default function TwitterCard({ tweet, username }: TwitterCardProps) {
     ? metrics.retweet_count + metrics.reply_count + metrics.like_count + metrics.quote_count
     : 0;
 
+  const tweetUrl = `https://x.com/${username}/status/${tweet.id}`;
+
   return (
-    <div className="bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-xl p-4 hover:bg-gray-50 dark:hover:bg-gray-750 transition-colors">
-      {/* Header */}
-      <div className="flex items-start justify-between mb-3">
-        <div className="flex items-center gap-2">
-          <div className="w-10 h-10 bg-gradient-to-br from-purple-500 to-blue-500 rounded-full flex items-center justify-center text-white font-semibold">
+    <a
+      href={tweetUrl}
+      target="_blank"
+      rel="noopener noreferrer"
+      className="block bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-2xl overflow-hidden hover:bg-gray-50 dark:hover:bg-gray-750 hover:border-purple-300 dark:hover:border-purple-600 transition-all cursor-pointer"
+    >
+      <div className="p-4">
+        {/* Header */}
+        <div className="flex items-start gap-3 mb-3">
+          <div className="w-12 h-12 bg-gradient-to-br from-purple-500 to-blue-500 rounded-full flex items-center justify-center text-white font-bold text-lg flex-shrink-0">
             {username.charAt(0).toUpperCase()}
           </div>
-          <div>
-            <div className="font-semibold text-gray-900 dark:text-white">@{username}</div>
-            <div className="text-sm text-gray-500 dark:text-gray-400">
-              {formatDate(tweet.created_at)}
+          <div className="flex-1 min-w-0">
+            <div className="flex items-center gap-1">
+              <span className="font-bold text-gray-900 dark:text-white hover:underline">
+                @{username}
+              </span>
+              <span className="text-gray-500 dark:text-gray-400">·</span>
+              <span className="text-gray-500 dark:text-gray-400 text-sm">
+                {formatDate(tweet.created_at)}
+              </span>
             </div>
           </div>
+          {/* X Logo */}
+          <svg className="w-5 h-5 text-gray-400 dark:text-gray-500 flex-shrink-0" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
+          </svg>
+        </div>
+
+        {/* Tweet Text */}
+        <div className="text-[15px] leading-5 text-gray-900 dark:text-gray-100 whitespace-pre-wrap break-words">
+          {tweet.text}
         </div>
       </div>
 
-      {/* Tweet Text */}
-      <div className="text-gray-900 dark:text-gray-100 mb-3 whitespace-pre-wrap">
-        {tweet.text}
-      </div>
+      {/* Media */}
+      {tweet.media && tweet.media.length > 0 && (
+        <div className={`${tweet.media.length === 1 ? 'px-0' : 'grid grid-cols-2 gap-1'}`}>
+          {tweet.media.map((media, index) => (
+            <div key={media.media_key} className="relative bg-gray-100 dark:bg-gray-900">
+              {media.type === 'photo' && media.url && (
+                <img
+                  src={media.url}
+                  alt={media.alt_text || 'Tweet image'}
+                  className="w-full h-auto object-cover"
+                  style={{ maxHeight: tweet.media.length === 1 ? '600px' : '300px' }}
+                />
+              )}
+              {media.type === 'video' && media.preview_image_url && (
+                <div className="relative">
+                  <img
+                    src={media.preview_image_url}
+                    alt="Video thumbnail"
+                    className="w-full h-auto object-cover"
+                    style={{ maxHeight: tweet.media.length === 1 ? '600px' : '300px' }}
+                  />
+                  {/* Play button overlay */}
+                  <div className="absolute inset-0 flex items-center justify-center">
+                    <div className="bg-blue-500 bg-opacity-90 rounded-full p-4">
+                      <svg className="w-8 h-8 text-white" fill="currentColor" viewBox="0 0 24 24">
+                        <path d="M8 5v14l11-7z" />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              )}
+              {media.type === 'animated_gif' && media.preview_image_url && (
+                <div className="relative">
+                  <img
+                    src={media.preview_image_url}
+                    alt="GIF preview"
+                    className="w-full h-auto object-cover"
+                    style={{ maxHeight: tweet.media.length === 1 ? '600px' : '300px' }}
+                  />
+                  {/* GIF badge */}
+                  <div className="absolute bottom-2 left-2 bg-black bg-opacity-75 text-white text-xs font-bold px-2 py-1 rounded">
+                    GIF
+                  </div>
+                </div>
+              )}
+            </div>
+          ))}
+        </div>
+      )}
 
       {/* Metrics */}
+      <div className="p-4 pt-3">
       {metrics && (
-        <div className="flex items-center gap-6 text-sm text-gray-500 dark:text-gray-400 pt-3 border-t border-gray-100 dark:border-gray-700">
+        <div className="flex items-center gap-6 text-sm text-gray-500 dark:text-gray-400 border-t border-gray-100 dark:border-gray-700 pt-3">
           <div className="flex items-center gap-1 hover:text-blue-500 transition-colors">
             <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
@@ -108,6 +184,7 @@ export default function TwitterCard({ tweet, username }: TwitterCardProps) {
           </div>
         </div>
       )}
-    </div>
+      </div>
+    </a>
   );
 }
