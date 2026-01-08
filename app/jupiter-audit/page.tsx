@@ -5,11 +5,15 @@ import TwitterCard from '../components/TwitterCard';
 
 interface TwitterData {
   username: string;
-  type: 'posts' | 'replies';
+  type: 'posts' | 'replies' | 'all-posts';
   count: number;
   data: any[];
   timestamp: string;
   filename: string;
+  allPosts?: {
+    count: number;
+    filename: string;
+  };
 }
 
 interface SavedData extends TwitterData {
@@ -29,6 +33,7 @@ export default function JupiterAudit() {
   // Saved data state
   const [savedData, setSavedData] = useState<SavedData[]>([]);
   const [selectedClient, setSelectedClient] = useState<string>('all');
+  const [selectedType, setSelectedType] = useState<string>('posts');
   const [sortBy, setSortBy] = useState<SortOption>('recent');
   const [loadingSaved, setLoadingSaved] = useState(false);
 
@@ -73,11 +78,16 @@ export default function JupiterAudit() {
   const getFilteredAndSortedPosts = () => {
     let allPosts: any[] = [];
 
-    // Filter by client
-    const filtered =
-      selectedClient === 'all'
-        ? savedData
-        : savedData.filter((d) => d.username === selectedClient);
+    // Filter by client and type
+    let filtered = savedData;
+
+    if (selectedClient !== 'all') {
+      filtered = filtered.filter((d) => d.username === selectedClient);
+    }
+
+    if (selectedType !== 'all') {
+      filtered = filtered.filter((d) => d.type === selectedType);
+    }
 
     // Flatten all posts
     filtered.forEach((dataset) => {
@@ -258,8 +268,16 @@ export default function JupiterAudit() {
                 <div className="space-y-2 text-sm text-green-700 dark:text-green-400">
                   <p><strong>Username:</strong> @{result.username}</p>
                   <p><strong>Type:</strong> {result.type}</p>
-                  <p><strong>Count:</strong> {result.count} items</p>
+                  <p><strong>Original Posts:</strong> {result.count} items</p>
                   <p><strong>Saved to:</strong> {result.filename}</p>
+                  {result.allPosts && (
+                    <>
+                      <p className="pt-2 border-t border-green-200 dark:border-green-700 mt-2">
+                        <strong>All Posts (incl. threads):</strong> {result.allPosts.count} items
+                      </p>
+                      <p><strong>Saved to:</strong> {result.allPosts.filename}</p>
+                    </>
+                  )}
                   <p><strong>Timestamp:</strong> {new Date(result.timestamp).toLocaleString()}</p>
                 </div>
 
@@ -288,10 +306,14 @@ export default function JupiterAudit() {
             <li>1. Paste an X.com profile URL (e.g., https://x.com/phantom)</li>
             <li>2. Choose whether to fetch posts or replies</li>
             <li>3. Set how many items to fetch (default: 10, max: 3200)</li>
-            <li>4. <strong>Posts:</strong> Fetches the most recent original posts</li>
+            <li>4. <strong>Posts:</strong> Saves two files:
+              <ul className="ml-4 mt-1 space-y-1">
+                <li>- <code className="bg-blue-100 dark:bg-blue-900/40 px-1 rounded">username_posts_*.json</code> - Original posts only (no thread continuations)</li>
+                <li>- <code className="bg-blue-100 dark:bg-blue-900/40 px-1 rounded">username_all-posts_*.json</code> - All posts including thread continuations</li>
+              </ul>
+            </li>
             <li>5. <strong>Replies:</strong> Samples ~10 replies per day across time (e.g., 500 replies = ~50 days of history)</li>
             <li>6. Data is automatically saved to <code className="bg-blue-100 dark:bg-blue-900/40 px-1 rounded">data/jupiter-audit/</code></li>
-            <li>7. Files are named with username, type, and timestamp for easy tracking</li>
           </ul>
         </div>
 
@@ -318,7 +340,7 @@ export default function JupiterAudit() {
           ) : (
             <>
               {/* Filters */}
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
                 {/* Client Filter */}
                 <div>
                   <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
@@ -335,6 +357,23 @@ export default function JupiterAudit() {
                         @{client}
                       </option>
                     ))}
+                  </select>
+                </div>
+
+                {/* Type Filter */}
+                <div>
+                  <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
+                    Dataset Type
+                  </label>
+                  <select
+                    value={selectedType}
+                    onChange={(e) => setSelectedType(e.target.value)}
+                    className="w-full px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent dark:bg-gray-700 dark:text-white"
+                  >
+                    <option value="all">All Types</option>
+                    <option value="posts">Original Posts Only</option>
+                    <option value="all-posts">All Posts (incl. threads)</option>
+                    <option value="replies">Replies</option>
                   </select>
                 </div>
 

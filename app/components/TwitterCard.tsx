@@ -67,7 +67,7 @@ export default function TwitterCard({ tweet, username }: TwitterCardProps) {
       href={tweetUrl}
       target="_blank"
       rel="noopener noreferrer"
-      className="block bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-2xl overflow-hidden hover:bg-gray-50 dark:hover:bg-gray-750 hover:border-purple-300 dark:hover:border-purple-600 transition-all cursor-pointer"
+      className="block bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-2xl overflow-hidden hover:bg-gray-900 dark:hover:bg-gray-750 hover:border-purple-300 dark:hover:border-purple-600 transition-all cursor-pointer"
     >
       <div className="p-4">
         {/* Header */}

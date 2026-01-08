@@ -1,0 +1,186 @@
+/* Print-specific styles for PDF generation */
+
+@media print {
+  /* Page setup */
+  @page {
+    size: letter;
+    margin: 0.75in;
+  }
+
+  /* Hide screen-only elements */
+  .no-print,
+  nav,
+  button,
+  .print-hide {
+    display: none !important;
+  }
+
+  /* Force page breaks */
+  .section-break {
+    break-before: page;
+  }
+
+  .page-break-after {
+    break-after: page;
+  }
+
+  .page-break-before {
+    break-before: page;
+  }
+
+  /* Avoid breaks inside these elements */
+  .avoid-break,
+  .callout,
+  .stat-card,
+  .key-finding,
+  h1, h2, h3, h4, h5, h6 {
+    break-inside: avoid;
+  }
+
+  /* Table handling */
+  table {
+    break-inside: auto;
+    page-break-inside: auto;
+  }
+
+  tr {
+    break-inside: avoid;
+    break-after: auto;
+    page-break-inside: avoid;
+  }
+
+  thead {
+    display: table-header-group;
+  }
+
+  tfoot {
+    display: table-footer-group;
+  }
+
+  /* Ensure proper spacing */
+  body {
+    background: white !important;
+    color: black !important;
+  }
+
+  /* Remove shadows for print */
+  * {
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  /* Optimize colors for print */
+  .bg-gradient-to-br {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  /* Ensure links are visible */
+  a {
+    text-decoration: underline;
+  }
+
+  a[href^="http"]:after {
+    content: " (" attr(href) ")";
+    font-size: 80%;
+  }
+
+  /* Page numbers - handled by browser */
+  .page-number:after {
+    content: counter(page);
+  }
+
+  /* Adjust font sizes slightly for print */
+  body {
+    font-size: 11pt;
+    line-height: 1.4;
+  }
+
+  h1 {
+    font-size: 28pt;
+  }
+
+  h2 {
+    font-size: 22pt;
+  }
+
+  h3 {
+    font-size: 18pt;
+  }
+
+  h4 {
+    font-size: 14pt;
+  }
+
+  /* Ensure images don't overflow */
+  img {
+    max-width: 100% !important;
+    page-break-inside: avoid;
+  }
+
+  /* Chart and graph handling */
+  .chart-container,
+  .performance-chart {
+    break-inside: avoid;
+  }
+
+  /* Stat cards in print */
+  .stat-card-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+  }
+
+  /* Footer styling */
+  footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+
+  /* Ensure proper border rendering */
+  table,
+  th,
+  td {
+    border-color: #333 !important;
+  }
+
+  /* Background colors for tables */
+  .bg-blue-600,
+  .bg-blue-50,
+  .bg-gray-50 {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  /* Callout boxes */
+  .callout {
+    border-left: 4px solid #333 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}
+
+/* Screen-only: Add print button styling */
+@media screen {
+  .print-button {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    z-index: 1000;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 1rem 2rem;
+    border-radius: 0.5rem;
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+
+  .print-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  }
+}
