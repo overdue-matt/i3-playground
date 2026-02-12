@@ -100,7 +100,7 @@ export default function TwitterCard({ tweet, username }: TwitterCardProps) {
 
       {/* Media */}
       {tweet.media && tweet.media.length > 0 && (
-        <div className={`${tweet.media.length === 1 ? 'px-0' : 'grid grid-cols-2 gap-1'}`}>
+        <div className={`${tweet.media?.length === 1 ? 'px-0' : 'grid grid-cols-2 gap-1'}`}>
           {tweet.media.map((media, index) => (
             <div key={media.media_key} className="relative bg-gray-100 dark:bg-gray-900">
               {media.type === 'photo' && media.url && (
@@ -108,7 +108,7 @@ export default function TwitterCard({ tweet, username }: TwitterCardProps) {
                   src={media.url}
                   alt={media.alt_text || 'Tweet image'}
                   className="w-full h-auto object-cover"
-                  style={{ maxHeight: tweet.media.length === 1 ? '600px' : '300px' }}
+                  style={{ maxHeight: tweet.media?.length === 1 ? '600px' : '300px' }}
                 />
               )}
               {media.type === 'video' && media.preview_image_url && (
@@ -117,7 +117,7 @@ export default function TwitterCard({ tweet, username }: TwitterCardProps) {
                     src={media.preview_image_url}
                     alt="Video thumbnail"
                     className="w-full h-auto object-cover"
-                    style={{ maxHeight: tweet.media.length === 1 ? '600px' : '300px' }}
+                    style={{ maxHeight: tweet.media?.length === 1 ? '600px' : '300px' }}
                   />
                   {/* Play button overlay */}
                   <div className="absolute inset-0 flex items-center justify-center">
@@ -135,7 +135,7 @@ export default function TwitterCard({ tweet, username }: TwitterCardProps) {
                     src={media.preview_image_url}
                     alt="GIF preview"
                     className="w-full h-auto object-cover"
-                    style={{ maxHeight: tweet.media.length === 1 ? '600px' : '300px' }}
+                    style={{ maxHeight: tweet.media?.length === 1 ? '600px' : '300px' }}
                   />
                   {/* GIF badge */}
                   <div className="absolute bottom-2 left-2 bg-black bg-opacity-75 text-white text-xs font-bold px-2 py-1 rounded">
