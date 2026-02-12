@@ -77,9 +77,9 @@ export async function POST(request: Request) {
         const remaining = fetchCount - totalFetched;
         const pageSize = Math.min(remaining, 100); // Max 100 per request
 
-        const url = `${TWITTER_API_BASE}/users/${userId}/tweets?max_results=${pageSize}&exclude=retweets,replies&tweet.fields=created_at,public_metrics,attachments,entities,conversation_id,in_reply_to_user_id&expansions=attachments.media_keys&media.fields=type,url,preview_image_url,width,height,alt_text${nextToken ? `&pagination_token=${nextToken}` : ''}`;
+        const url: string = `${TWITTER_API_BASE}/users/${userId}/tweets?max_results=${pageSize}&exclude=retweets,replies&tweet.fields=created_at,public_metrics,attachments,entities,conversation_id,in_reply_to_user_id,note_tweet&expansions=attachments.media_keys&media.fields=type,url,preview_image_url,width,height,alt_text${nextToken ? `&pagination_token=${nextToken}` : ''}`;
 
-        const tweetsResponse = await fetch(url, {
+        const tweetsResponse: Response = await fetch(url, {
           headers: {
             Authorization: `Bearer ${bearerToken}`,
           },
@@ -94,7 +94,7 @@ export async function POST(request: Request) {
           );
         }
 
-        const tweetsData = await tweetsResponse.json();
+        const tweetsData: any = await tweetsResponse.json();
         const pageTweets = tweetsData.data || [];
 
         if (pageTweets.length === 0) {
@@ -148,22 +148,26 @@ export async function POST(request: Request) {
           return tweet;
         });
       }
-    } else {
-      // Fetch replies with time-based sampling
-      // Instead of getting the most recent N replies, we sample across multiple days
-      const REPLIES_PER_DAY = 10; // Number of replies to sample from each day
-      const targetDays = Math.ceil(fetchCount / REPLIES_PER_DAY);
 
+      // Use full text from note_tweet for long-form posts (>280 chars)
+      const applyFullText = (tweet: any) => {
+        if (tweet.note_tweet?.text) {
+          tweet.text = tweet.note_tweet.text;
+        }
+        return tweet;
+      };
+      tweets = tweets.map(applyFullText);
+      threadContinuations = threadContinuations.map(applyFullText);
+    } else {
+      // Fetch replies (excluding retweets to reduce API costs)
       let nextToken: string | undefined = undefined;
       let allMedia: any[] = [];
-      const repliesByDate = new Map<string, any[]>(); // Group replies by date (YYYY-MM-DD)
-      let fetchedEnough = false;
       let totalFetched = 0;
 
-      // Fetch replies with pagination until we have enough date coverage
-      while (!fetchedEnough && totalFetched < 3200) { // Safety limit
-        const tweetsResponse = await fetch(
-          `${TWITTER_API_BASE}/users/${userId}/tweets?max_results=100&tweet.fields=created_at,public_metrics,in_reply_to_user_id,attachments,entities&expansions=attachments.media_keys&media.fields=type,url,preview_image_url,width,height,alt_text${nextToken ? `&pagination_token=${nextToken}` : ''}`,
+      // Fetch tweets with pagination until we have enough replies
+      while (tweets.length < fetchCount && totalFetched < 3200) { // Safety limit
+        const tweetsResponse: Response = await fetch(
+          `${TWITTER_API_BASE}/users/${userId}/tweets?max_results=100&exclude=retweets&tweet.fields=created_at,public_metrics,in_reply_to_user_id,attachments,entities,note_tweet&expansions=attachments.media_keys&media.fields=type,url,preview_image_url,width,height,alt_text${nextToken ? `&pagination_token=${nextToken}` : ''}`,
           {
             headers: {
               Authorization: `Bearer ${bearerToken}`,
@@ -180,11 +184,12 @@ export async function POST(request: Request) {
           );
         }
 
-        const tweetsData = await tweetsResponse.json();
+        const tweetsData: any = await tweetsResponse.json();
         const allTweets = tweetsData.data || [];
         totalFetched += allTweets.length;
 
         if (allTweets.length === 0) {
+          console.log(`Pagination stopped: No more tweets available. API tweets fetched: ${totalFetched}, Replies found: ${tweets.length}`);
           break;
         }
 
@@ -198,42 +203,19 @@ export async function POST(request: Request) {
           tweet.in_reply_to_user_id && tweet.in_reply_to_user_id !== userId
         );
 
-        pageReplies.forEach((reply: any) => {
-          const date = new Date(reply.created_at).toISOString().split('T')[0]; // YYYY-MM-DD
-          const dateReplies = repliesByDate.get(date) ?? [];
-          dateReplies.push(reply);
-          repliesByDate.set(date, dateReplies);
-        });
-
-        // Check if we have enough date coverage
-        if (repliesByDate.size >= targetDays) {
-          fetchedEnough = true;
-        }
+        tweets = tweets.concat(pageReplies);
+        console.log(`Fetched ${allTweets.length} tweets, found ${pageReplies.length} replies. API total: ${totalFetched}, Replies total: ${tweets.length}/${fetchCount}`);
 
         // Check for next page
         nextToken = tweetsData.meta?.next_token;
         if (!nextToken) {
+          console.log(`Pagination stopped: No next_token. API tweets fetched: ${totalFetched}, Replies found: ${tweets.length}`);
           break;
         }
       }
 
-      // Sample replies from each day
-      const sampledReplies: any[] = [];
-      const dates = Array.from(repliesByDate.keys()).sort().reverse(); // Most recent first
-
-      for (const date of dates) {
-        const dayReplies = repliesByDate.get(date);
-        if (!dayReplies) continue;
-        // Take up to REPLIES_PER_DAY from this day
-        const sampled = dayReplies.slice(0, REPLIES_PER_DAY);
-        sampledReplies.push(...sampled);
-
-        if (sampledReplies.length >= fetchCount) {
-          break;
-        }
-      }
-
-      tweets = sampledReplies.slice(0, fetchCount);
+      // Trim to requested count
+      tweets = tweets.slice(0, fetchCount);
 
       // Map all collected media data to tweets
       if (allMedia.length > 0) {
@@ -245,6 +227,14 @@ export async function POST(request: Request) {
           return tweet;
         });
       }
+
+      // Use full text from note_tweet for long-form replies (>280 chars)
+      tweets = tweets.map((tweet: any) => {
+        if (tweet.note_tweet?.text) {
+          tweet.text = tweet.note_tweet.text;
+        }
+        return tweet;
+      });
     }
 
     // Step 3: Save data to file(s)

@@ -1,0 +1,5864 @@
+{
+  "username": "aave",
+  "type": "all-posts",
+  "count": 90,
+  "timestamp": "2026-01-28T06:00:33.542Z",
+  "data": [
+    {
+      "created_at": "2026-01-27T14:21:54.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 16,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 2946
+      },
+      "text": "@Tangem Learn more: https://t.co/abNY0eYHEu",
+      "conversation_id": "2016154506120102091",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 7,
+            "username": "Tangem",
+            "id": "922794323233603584"
+          }
+        ],
+        "urls": [
+          {
+            "start": 20,
+            "end": 43,
+            "url": "https://t.co/abNY0eYHEu",
+            "expanded_url": "https://aave.com/blog/tangem",
+            "display_url": "aave.com/blog/tangem",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/2016154172307996672/DqDk9V7B?format=jpg&name=orig",
+                "width": 7680,
+                "height": 4112
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/2016154172307996672/DqDk9V7B?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Tangem",
+            "description": "How Tangem uses Aave to Power Non-Custodial Yield.",
+            "unwound_url": "https://aave.com/blog/tangem"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "2016154704967876649"
+      ],
+      "id": "2016154704967876649"
+    },
+    {
+      "created_at": "2026-01-27T14:21:07.000Z",
+      "public_metrics": {
+        "retweet_count": 11,
+        "reply_count": 16,
+        "like_count": 149,
+        "quote_count": 4,
+        "bookmark_count": 21,
+        "impression_count": 32920
+      },
+      "text": "Yield Mode by @Tangem offers easy access to Aave-powered yield.\n\nIntegrated into the Tangem Wallet, it lets users supply assets directly to Aave, DeFi's largest and most trusted lending network. https://t.co/2kjKd4s7mv",
+      "conversation_id": "2016154506120102091",
+      "entities": {
+        "mentions": [
+          {
+            "start": 14,
+            "end": 21,
+            "username": "Tangem",
+            "id": "922794323233603584"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 0,
+            "end": 4,
+            "probability": 0.576,
+            "type": "Other",
+            "normalized_text": "Yield"
+          },
+          {
+            "start": 44,
+            "end": 47,
+            "probability": 0.6323,
+            "type": "Other",
+            "normalized_text": "Aave"
+          },
+          {
+            "start": 85,
+            "end": 97,
+            "probability": 0.8436,
+            "type": "Other",
+            "normalized_text": "Tangem Wallet"
+          },
+          {
+            "start": 140,
+            "end": 143,
+            "probability": 0.6012,
+            "type": "Other",
+            "normalized_text": "Aave"
+          },
+          {
+            "start": 146,
+            "end": 149,
+            "probability": 0.4258,
+            "type": "Other",
+            "normalized_text": "DeFi"
+          }
+        ],
+        "urls": [
+          {
+            "start": 195,
+            "end": 218,
+            "url": "https://t.co/2kjKd4s7mv",
+            "expanded_url": "https://x.com/aave/status/2016154506120102091/video/1",
+            "display_url": "pic.x.com/2kjKd4s7mv",
+            "media_key": "13_2016154408329920512"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "2016154506120102091"
+      ],
+      "attachments": {
+        "media_keys": [
+          "13_2016154408329920512"
+        ]
+      },
+      "id": "2016154506120102091",
+      "media": [
+        {
+          "width": 1080,
+          "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016154408329920512/img/yvMF7H7ADUeUT8oe.jpg",
+          "height": 1080,
+          "type": "video",
+          "media_key": "13_2016154408329920512"
+        }
+      ]
+    },
+    {
+      "created_at": "2026-01-26T16:10:55.000Z",
+      "public_metrics": {
+        "retweet_count": 40,
+        "reply_count": 27,
+        "like_count": 405,
+        "quote_count": 6,
+        "bookmark_count": 53,
+        "impression_count": 32977
+      },
+      "text": "Introducing @krakenfx DeFi Earn, powered by Aave.\n\nUsers can now deposit cash and stablecoins into dedicated vaults on Kraken to earn yield from DeFi's most-trusted lending network. https://t.co/FY1PiVQEMT",
+      "conversation_id": "2015819750912254176",
+      "entities": {
+        "mentions": [
+          {
+            "start": 12,
+            "end": 21,
+            "username": "krakenfx",
+            "id": "1399148563"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 22,
+            "end": 30,
+            "probability": 0.7094,
+            "type": "Other",
+            "normalized_text": "DeFi Earn"
+          },
+          {
+            "start": 44,
+            "end": 47,
+            "probability": 0.4613,
+            "type": "Other",
+            "normalized_text": "Aave"
+          },
+          {
+            "start": 119,
+            "end": 124,
+            "probability": 0.5006,
+            "type": "Other",
+            "normalized_text": "Kraken"
+          },
+          {
+            "start": 145,
+            "end": 148,
+            "probability": 0.5867,
+            "type": "Other",
+            "normalized_text": "DeFi"
+          }
+        ],
+        "urls": [
+          {
+            "start": 182,
+            "end": 205,
+            "url": "https://t.co/FY1PiVQEMT",
+            "expanded_url": "https://x.com/aave/status/2015819750912254176/video/1",
+            "display_url": "pic.x.com/FY1PiVQEMT",
+            "media_key": "13_2015815094534307840"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "2015819750912254176"
+      ],
+      "attachments": {
+        "media_keys": [
+          "13_2015815094534307840"
+        ]
+      },
+      "id": "2015819750912254176",
+      "media": [
+        {
+          "width": 2160,
+          "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015815094534307840/img/dD7RY7kuy-5Noaro.jpg",
+          "height": 2160,
+          "type": "video",
+          "media_key": "13_2015815094534307840"
+        }
+      ]
+    },
+    {
+      "created_at": "2026-01-26T16:10:55.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 19,
+        "quote_count": 1,
+        "bookmark_count": 1,
+        "impression_count": 3873
+      },
+      "text": "Learn more: https://t.co/Cdtu16lozW",
+      "conversation_id": "2015819750912254176",
+      "edit_history_tweet_ids": [
+        "2015819752417935454"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 12,
+            "end": 35,
+            "url": "https://t.co/Cdtu16lozW",
+            "expanded_url": "https://aave.com/blog/kraken-defi-earn?utm_source=x&utm_medium=post&utm_campaign=kraken",
+            "display_url": "aave.com/blog/kraken-de…",
+            "status": 200,
+            "title": "Kraken Launches DeFi Earn, Powered by Aave",
+            "description": "Kraken, one of the oldest and largest cryptocurrency exchanges, now offers its users access to DeFi yields through a new product called DeFi Earn, powered by Aave.",
+            "unwound_url": "https://aave.com/blog/kraken-defi-earn?utm_source=x&utm_medium=post&utm_campaign=kraken"
+          }
+        ]
+      },
+      "id": "2015819752417935454"
+    },
+    {
+      "created_at": "2026-01-21T17:49:21.000Z",
+      "public_metrics": {
+        "retweet_count": 76,
+        "reply_count": 26,
+        "like_count": 314,
+        "quote_count": 6,
+        "bookmark_count": 19,
+        "impression_count": 69240
+      },
+      "text": "Canada’s largest digital asset custodian, @balance_canada, has integrated Aave.\n\nClients of Balance can now lend their assets and earn yield through Aave on assets held in offline or warm storage. https://t.co/esI8hf2uRB",
+      "conversation_id": "2014032582141231167",
+      "entities": {
+        "mentions": [
+          {
+            "start": 42,
+            "end": 57,
+            "username": "balance_canada",
+            "id": "957029868813856768"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 0,
+            "end": 5,
+            "probability": 0.9514,
+            "type": "Place",
+            "normalized_text": "Canada"
+          },
+          {
+            "start": 74,
+            "end": 77,
+            "probability": 0.4313,
+            "type": "Other",
+            "normalized_text": "Aave"
+          },
+          {
+            "start": 149,
+            "end": 152,
+            "probability": 0.3618,
+            "type": "Organization",
+            "normalized_text": "Aave"
+          }
+        ],
+        "urls": [
+          {
+            "start": 197,
+            "end": 220,
+            "url": "https://t.co/esI8hf2uRB",
+            "expanded_url": "https://x.com/aave/status/2014032582141231167/video/1",
+            "display_url": "pic.x.com/esI8hf2uRB",
+            "media_key": "13_2014032247880372224"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "2014032582141231167"
+      ],
+      "attachments": {
+        "media_keys": [
+          "13_2014032247880372224"
+        ]
+      },
+      "id": "2014032582141231167",
+      "media": [
+        {
+          "width": 2160,
+          "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014032247880372224/img/8TaPLaEZLxIdxAac.jpg",
+          "height": 2160,
+          "type": "video",
+          "media_key": "13_2014032247880372224"
+        }
+      ]
+    },
+    {
+      "created_at": "2026-01-21T17:49:21.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 14,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3244
+      },
+      "text": "To learn more: https://t.co/VEGyYpJxXC",
+      "conversation_id": "2014032582141231167",
+      "edit_history_tweet_ids": [
+        "2014032583630176564"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 15,
+            "end": 38,
+            "url": "https://t.co/VEGyYpJxXC",
+            "expanded_url": "https://www.balance.ca/yield",
+            "display_url": "balance.ca/yield",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/2013990084110852096/qpY6xvaj?format=jpg&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/2013990084110852096/qpY6xvaj?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Balance Custody - Insured Digital Asset Custodian",
+            "description": "Confidently build your digital asset business with Balance's insured institutional grade custody and wallet management.",
+            "unwound_url": "https://www.balance.ca/yield"
+          }
+        ]
+      },
+      "id": "2014032583630176564"
+    },
+    {
+      "created_at": "2026-01-20T15:41:52.000Z",
+      "public_metrics": {
+        "retweet_count": 28,
+        "reply_count": 46,
+        "like_count": 299,
+        "quote_count": 5,
+        "bookmark_count": 26,
+        "impression_count": 44280
+      },
+      "text": "Aave App provides a best in class savings rate.\n\nInvite your friends and family to boost it higher. https://t.co/JkjiMqAuWD",
+      "conversation_id": "2013638114669900084",
+      "edit_history_tweet_ids": [
+        "2013638114669900084"
+      ],
+      "attachments": {
+        "media_keys": [
+          "13_2013636573099683840"
+        ]
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 7,
+            "probability": 0.921,
+            "type": "Other",
+            "normalized_text": "Aave App"
+          }
+        ],
+        "urls": [
+          {
+            "start": 100,
+            "end": 123,
+            "url": "https://t.co/JkjiMqAuWD",
+            "expanded_url": "https://x.com/aave/status/2013638114669900084/video/1",
+            "display_url": "pic.x.com/JkjiMqAuWD",
+            "media_key": "13_2013636573099683840"
+          }
+        ]
+      },
+      "id": "2013638114669900084",
+      "media": [
+        {
+          "width": 1920,
+          "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2013636573099683840/img/KbhCeSMCKDCNwyCo.jpg",
+          "height": 1080,
+          "type": "video",
+          "media_key": "13_2013636573099683840"
+        }
+      ]
+    },
+    {
+      "created_at": "2026-01-19T17:45:50.000Z",
+      "public_metrics": {
+        "retweet_count": 40,
+        "reply_count": 41,
+        "like_count": 338,
+        "quote_count": 9,
+        "bookmark_count": 16,
+        "impression_count": 33463
+      },
+      "text": "Aave is approaching $1 trillion total loans originated since launch. https://t.co/azALg85E32",
+      "conversation_id": "2013306923509014737",
+      "edit_history_tweet_ids": [
+        "2013306923509014737"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_2013306772971220992"
+        ]
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 3,
+            "probability": 0.57,
+            "type": "Other",
+            "normalized_text": "Aave"
+          }
+        ],
+        "urls": [
+          {
+            "start": 69,
+            "end": 92,
+            "url": "https://t.co/azALg85E32",
+            "expanded_url": "https://x.com/aave/status/2013306923509014737/photo/1",
+            "display_url": "pic.x.com/azALg85E32",
+            "media_key": "3_2013306772971220992"
+          }
+        ]
+      },
+      "id": "2013306923509014737",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G_Cz19LWcAAQ8rz.png",
+          "width": 1088,
+          "height": 1036,
+          "type": "photo",
+          "media_key": "3_2013306772971220992"
+        }
+      ]
+    },
+    {
+      "created_at": "2026-01-15T16:26:35.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 1,
+        "like_count": 29,
+        "quote_count": 0,
+        "bookmark_count": 6,
+        "impression_count": 4645
+      },
+      "text": "Read it here: https://t.co/FbO9vlNXKM",
+      "conversation_id": "2011837424511390073",
+      "edit_history_tweet_ids": [
+        "2011837426189107440"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 14,
+            "end": 37,
+            "url": "https://t.co/FbO9vlNXKM",
+            "expanded_url": "https://aave.com/blog/aave-v4-risk-isolation?utm_source=x&utm_medium=post&utm_campaign=risk",
+            "display_url": "aave.com/blog/aave-v4-r…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/2011837523677319168/7kDqsaQa?format=jpg&name=orig",
+                "width": 1920,
+                "height": 1028
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/2011837523677319168/7kDqsaQa?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "How Aave V4 Handles Risk Isolation Without Fragmenting Liquidity",
+            "description": "Aave V4's Hub and Spoke architecture enables granular risk segregation while maintaining unified liquidity across markets.",
+            "unwound_url": "https://aave.com/blog/aave-v4-risk-isolation?utm_source=x&utm_medium=post&utm_campaign=risk"
+          }
+        ]
+      },
+      "id": "2011837426189107440"
+    },
+    {
+      "created_at": "2026-01-15T16:26:34.000Z",
+      "public_metrics": {
+        "retweet_count": 25,
+        "reply_count": 14,
+        "like_count": 142,
+        "quote_count": 5,
+        "bookmark_count": 8,
+        "impression_count": 31330
+      },
+      "text": "Aave V4 offers precise risk management tools without fragmenting liquidity, positioning Aave to scale to trillions of dollars.\n\nWe've published a blog post detailing how risk isolation works and more. https://t.co/rd9Y4ceqiz",
+      "conversation_id": "2011837424511390073",
+      "edit_history_tweet_ids": [
+        "2011837424511390073"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_2011834557046407174"
+        ]
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 6,
+            "probability": 0.849,
+            "type": "Other",
+            "normalized_text": "Aave V4"
+          },
+          {
+            "start": 88,
+            "end": 91,
+            "probability": 0.652,
+            "type": "Other",
+            "normalized_text": "Aave"
+          }
+        ],
+        "urls": [
+          {
+            "start": 201,
+            "end": 224,
+            "url": "https://t.co/rd9Y4ceqiz",
+            "expanded_url": "https://x.com/aave/status/2011837424511390073/photo/1",
+            "display_url": "pic.x.com/rd9Y4ceqiz",
+            "media_key": "3_2011834557046407174"
+          }
+        ]
+      },
+      "id": "2011837424511390073",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G-t43tebQAYjmTy.jpg",
+          "width": 1920,
+          "height": 1028,
+          "type": "photo",
+          "media_key": "3_2011834557046407174"
+        }
+      ]
+    },
+    {
+      "created_at": "2026-01-14T17:05:16.000Z",
+      "public_metrics": {
+        "retweet_count": 20,
+        "reply_count": 19,
+        "like_count": 218,
+        "quote_count": 10,
+        "bookmark_count": 21,
+        "impression_count": 31058
+      },
+      "text": "Incentives are live for USDG (@global_dollar) on the Ethereum Core market.\n\nSupply USDG to start earning rewards. https://t.co/AJbKH9JKRW",
+      "conversation_id": "2011484776553676820",
+      "entities": {
+        "mentions": [
+          {
+            "start": 30,
+            "end": 44,
+            "username": "global_dollar",
+            "id": "1841897258142343168"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 24,
+            "end": 27,
+            "probability": 0.6734,
+            "type": "Other",
+            "normalized_text": "USDG"
+          },
+          {
+            "start": 53,
+            "end": 60,
+            "probability": 0.6665,
+            "type": "Other",
+            "normalized_text": "Ethereum"
+          },
+          {
+            "start": 83,
+            "end": 86,
+            "probability": 0.6329,
+            "type": "Other",
+            "normalized_text": "USDG"
+          }
+        ],
+        "urls": [
+          {
+            "start": 114,
+            "end": 137,
+            "url": "https://t.co/AJbKH9JKRW",
+            "expanded_url": "https://x.com/aave/status/2011484776553676820/video/1",
+            "display_url": "pic.x.com/AJbKH9JKRW",
+            "media_key": "13_2011473024675926016"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "2011484776553676820"
+      ],
+      "attachments": {
+        "media_keys": [
+          "13_2011473024675926016"
+        ]
+      },
+      "id": "2011484776553676820",
+      "media": [
+        {
+          "width": 1620,
+          "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2011473024675926016/img/ZdsS-lLr61DWghVl.jpg",
+          "height": 1620,
+          "type": "video",
+          "media_key": "13_2011473024675926016"
+        }
+      ]
+    },
+    {
+      "created_at": "2026-01-14T14:34:50.000Z",
+      "public_metrics": {
+        "retweet_count": 31,
+        "reply_count": 24,
+        "like_count": 296,
+        "quote_count": 5,
+        "bookmark_count": 11,
+        "impression_count": 65204
+      },
+      "text": "PYUSD, by @PayPal, crossed $400M deposited on Aave.\n\nThe Aave effect. https://t.co/WtUBNzEc8V",
+      "conversation_id": "2011446917029564520",
+      "entities": {
+        "mentions": [
+          {
+            "start": 10,
+            "end": 17,
+            "username": "PayPal",
+            "id": "30018058"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 46,
+            "end": 49,
+            "probability": 0.5172,
+            "type": "Other",
+            "normalized_text": "Aave"
+          }
+        ],
+        "urls": [
+          {
+            "start": 70,
+            "end": 93,
+            "url": "https://t.co/WtUBNzEc8V",
+            "expanded_url": "https://x.com/aave/status/2011446917029564520/photo/1",
+            "display_url": "pic.x.com/WtUBNzEc8V",
+            "media_key": "3_2011445810060247040"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "2011446917029564520"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_2011445810060247040"
+        ]
+      },
+      "id": "2011446917029564520",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G-oXTqGWwAALipE.png",
+          "width": 1632,
+          "height": 1413,
+          "type": "photo",
+          "media_key": "3_2011445810060247040"
+        }
+      ]
+    },
+    {
+      "created_at": "2026-01-13T15:32:13.000Z",
+      "public_metrics": {
+        "retweet_count": 34,
+        "reply_count": 41,
+        "like_count": 330,
+        "quote_count": 10,
+        "bookmark_count": 29,
+        "impression_count": 54612
+      },
+      "text": "Users can now earn Aave-powered yield through @JumperExchange Earn.\n\nAvailable on Ethereum, Base, Arbitrum, and Plasma. https://t.co/PypY9lrtzC",
+      "conversation_id": "2011098969024193020",
+      "entities": {
+        "mentions": [
+          {
+            "start": 46,
+            "end": 61,
+            "username": "JumperExchange",
+            "id": "1484060475402948610"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 19,
+            "end": 22,
+            "probability": 0.5998,
+            "type": "Other",
+            "normalized_text": "Aave"
+          },
+          {
+            "start": 82,
+            "end": 89,
+            "probability": 0.7283,
+            "type": "Other",
+            "normalized_text": "Ethereum"
+          },
+          {
+            "start": 98,
+            "end": 105,
+            "probability": 0.4698,
+            "type": "Other",
+            "normalized_text": "Arbitrum"
+          },
+          {
+            "start": 112,
+            "end": 117,
+            "probability": 0.6289,
+            "type": "Other",
+            "normalized_text": "Plasma"
+          }
+        ],
+        "urls": [
+          {
+            "start": 120,
+            "end": 143,
+            "url": "https://t.co/PypY9lrtzC",
+            "expanded_url": "https://x.com/aave/status/2011098969024193020/video/1",
+            "display_url": "pic.x.com/PypY9lrtzC",
+            "media_key": "13_2011097469782786048"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "2011098969024193020"
+      ],
+      "attachments": {
+        "media_keys": [
+          "13_2011097469782786048"
+        ]
+      },
+      "id": "2011098969024193020",
+      "media": [
+        {
+          "width": 2160,
+          "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2011097469782786048/img/EkGFjyIqosPtr68s.jpg",
+          "height": 2160,
+          "type": "video",
+          "media_key": "13_2011097469782786048"
+        }
+      ]
+    },
+    {
+      "created_at": "2026-01-13T15:32:13.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 30,
+        "quote_count": 0,
+        "bookmark_count": 3,
+        "impression_count": 4161
+      },
+      "text": "Find it here: https://t.co/G1p47f5ZBN",
+      "conversation_id": "2011098969024193020",
+      "edit_history_tweet_ids": [
+        "2011098970832207959"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 14,
+            "end": 37,
+            "url": "https://t.co/G1p47f5ZBN",
+            "expanded_url": "https://jumper.exchange/earn",
+            "display_url": "jumper.exchange/earn",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/2016240309970374656/Qaz4z_fL?format=png&name=orig",
+                "width": 2400,
+                "height": 1200
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/2016240309970374656/Qaz4z_fL?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Jumper Earn | Earn Smarter Across Chains",
+            "description": "Earn smarter across chains with Jumper Earn. Access DeFi earn opportunities, seamless swaps, and a consolidated portfolio view in one smart app.",
+            "unwound_url": "https://jumper.exchange/earn"
+          }
+        ]
+      },
+      "id": "2011098970832207959"
+    },
+    {
+      "created_at": "2026-01-08T15:02:26.000Z",
+      "public_metrics": {
+        "retweet_count": 89,
+        "reply_count": 98,
+        "like_count": 709,
+        "quote_count": 23,
+        "bookmark_count": 97,
+        "impression_count": 112454
+      },
+      "text": "Aave App will change the way you save.\n\nEarn DeFi-powered yield and withdraw directly to your bank account.\n\nNo extra steps. https://t.co/8Pp3QxjGbo",
+      "conversation_id": "2009279535703883882",
+      "edit_history_tweet_ids": [
+        "2009279535703883882"
+      ],
+      "attachments": {
+        "media_keys": [
+          "13_2009277994573996032"
+        ]
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 7,
+            "probability": 0.6947,
+            "type": "Other",
+            "normalized_text": "Aave App"
+          }
+        ],
+        "urls": [
+          {
+            "start": 125,
+            "end": 148,
+            "url": "https://t.co/8Pp3QxjGbo",
+            "expanded_url": "https://x.com/aave/status/2009279535703883882/video/1",
+            "display_url": "pic.x.com/8Pp3QxjGbo",
+            "media_key": "13_2009277994573996032"
+          }
+        ]
+      },
+      "id": "2009279535703883882",
+      "media": [
+        {
+          "width": 1920,
+          "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2009277994573996032/img/ERglj0UnbBjiSna0.jpg",
+          "height": 1080,
+          "type": "video",
+          "media_key": "13_2009277994573996032"
+        }
+      ]
+    },
+    {
+      "created_at": "2026-01-07T13:20:39.000Z",
+      "public_metrics": {
+        "retweet_count": 100,
+        "reply_count": 57,
+        "like_count": 441,
+        "quote_count": 7,
+        "bookmark_count": 12,
+        "impression_count": 55808
+      },
+      "text": "Aave's Horizon RWA market crossed $600M net deposits.\n\nThe largest market for RWA-backed loans. https://t.co/jupxygyEzM",
+      "conversation_id": "2008891532074455062",
+      "edit_history_tweet_ids": [
+        "2008891532074455062"
+      ],
+      "attachments": {
+        "media_keys": [
+          "13_2008891351799074816"
+        ]
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 3,
+            "probability": 0.6655,
+            "type": "Organization",
+            "normalized_text": "Aave"
+          },
+          {
+            "start": 7,
+            "end": 17,
+            "probability": 0.5879,
+            "type": "Other",
+            "normalized_text": "Horizon RWA"
+          },
+          {
+            "start": 78,
+            "end": 80,
+            "probability": 0.4541,
+            "type": "Other",
+            "normalized_text": "RWA"
+          }
+        ],
+        "urls": [
+          {
+            "start": 96,
+            "end": 119,
+            "url": "https://t.co/jupxygyEzM",
+            "expanded_url": "https://x.com/aave/status/2008891532074455062/video/1",
+            "display_url": "pic.x.com/jupxygyEzM",
+            "media_key": "13_2008891351799074816"
+          }
+        ]
+      },
+      "id": "2008891532074455062",
+      "media": [
+        {
+          "width": 1920,
+          "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008891351799074816/img/VlIQrRvGtrfbIkjV.jpg",
+          "height": 1080,
+          "type": "video",
+          "media_key": "13_2008891351799074816"
+        }
+      ]
+    },
+    {
+      "created_at": "2026-01-06T14:43:24.000Z",
+      "public_metrics": {
+        "retweet_count": 34,
+        "reply_count": 73,
+        "like_count": 281,
+        "quote_count": 9,
+        "bookmark_count": 1,
+        "impression_count": 34461
+      },
+      "text": "Aave's Horizon RWA market crosses $200M active borrows, a new all-time high. https://t.co/rZDwBoJbCM",
+      "conversation_id": "2008549968802619707",
+      "edit_history_tweet_ids": [
+        "2008549968802619707"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_2008549875000999936"
+        ]
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 3,
+            "probability": 0.5549,
+            "type": "Organization",
+            "normalized_text": "Aave"
+          },
+          {
+            "start": 7,
+            "end": 17,
+            "probability": 0.6458,
+            "type": "Other",
+            "normalized_text": "Horizon RWA"
+          }
+        ],
+        "urls": [
+          {
+            "start": 77,
+            "end": 100,
+            "url": "https://t.co/rZDwBoJbCM",
+            "expanded_url": "https://x.com/aave/status/2008549968802619707/photo/1",
+            "display_url": "pic.x.com/rZDwBoJbCM",
+            "media_key": "3_2008549875000999936"
+          }
+        ]
+      },
+      "id": "2008549968802619707",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G9_NeDUXAAAwjw1.png",
+          "width": 1632,
+          "height": 1413,
+          "type": "photo",
+          "media_key": "3_2008549875000999936"
+        }
+      ]
+    },
+    {
+      "created_at": "2026-01-05T16:44:08.000Z",
+      "public_metrics": {
+        "retweet_count": 29,
+        "reply_count": 23,
+        "like_count": 205,
+        "quote_count": 4,
+        "bookmark_count": 8,
+        "impression_count": 25351
+      },
+      "text": "One week left to audit Aave V4 on @sherlockdefi.\n\nWe invite anyone who has audited Aave before, or who understands lending-pool mechanics, to participate. https://t.co/mt4e1Xzoae",
+      "conversation_id": "2008217964466540761",
+      "entities": {
+        "mentions": [
+          {
+            "start": 34,
+            "end": 47,
+            "username": "sherlockdefi",
+            "id": "1364431083824062464"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 23,
+            "end": 29,
+            "probability": 0.8139,
+            "type": "Other",
+            "normalized_text": "Aave V4"
+          },
+          {
+            "start": 83,
+            "end": 86,
+            "probability": 0.7992,
+            "type": "Other",
+            "normalized_text": "Aave"
+          }
+        ],
+        "urls": [
+          {
+            "start": 155,
+            "end": 178,
+            "url": "https://t.co/mt4e1Xzoae",
+            "expanded_url": "https://x.com/aave/status/2008217964466540761/photo/1",
+            "display_url": "pic.x.com/mt4e1Xzoae",
+            "media_key": "3_2008216559018192896"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "2008217964466540761"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_2008216559018192896"
+        ]
+      },
+      "id": "2008217964466540761",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G96eUghWMAAPc0O.jpg",
+          "width": 4096,
+          "height": 2193,
+          "type": "photo",
+          "media_key": "3_2008216559018192896"
+        }
+      ]
+    },
+    {
+      "created_at": "2026-01-05T16:44:08.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 22,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 4847
+      },
+      "text": "Find the contest here: https://t.co/2Yv4CQsnD6",
+      "conversation_id": "2008217964466540761",
+      "edit_history_tweet_ids": [
+        "2008217966395924925"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 23,
+            "end": 46,
+            "url": "https://t.co/2Yv4CQsnD6",
+            "expanded_url": "https://audits.sherlock.xyz/contests/1209",
+            "display_url": "audits.sherlock.xyz/contests/1209",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/2008218020401827840/Lt8Maz1O?format=png&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/2008218020401827840/Lt8Maz1O?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Aave V4 Contest - 365,000 USDC",
+            "description": "Aave V4 introduces a new Hub and Spoke architecture. This architecture introduces several new design paradigms to Aave, each with their own set of benefits. The contest should focus on edge cases in accounting and new features.",
+            "unwound_url": "https://audits.sherlock.xyz/contests/1209"
+          }
+        ]
+      },
+      "id": "2008217966395924925"
+    },
+    {
+      "created_at": "2026-01-03T14:24:14.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 6,
+        "like_count": 58,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 8496
+      },
+      "text": "Join the waitlist: https://t.co/FVxJztd6de",
+      "conversation_id": "2007457760061935712",
+      "edit_history_tweet_ids": [
+        "2007457984473969149"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 19,
+            "end": 42,
+            "url": "https://t.co/FVxJztd6de",
+            "expanded_url": "https://aave.app",
+            "display_url": "aave.app",
+            "unwound_url": "https://aave.com/app"
+          }
+        ]
+      },
+      "id": "2007457984473969149"
+    },
+    {
+      "created_at": "2026-01-03T14:23:21.000Z",
+      "public_metrics": {
+        "retweet_count": 67,
+        "reply_count": 86,
+        "like_count": 684,
+        "quote_count": 22,
+        "bookmark_count": 41,
+        "impression_count": 67531
+      },
+      "text": "Aave App will bring DeFi-powered savings to everyone this year. https://t.co/8ZDFZ3l24G",
+      "conversation_id": "2007457760061935712",
+      "edit_history_tweet_ids": [
+        "2007457760061935712"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_2007457246439981056"
+        ]
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 7,
+            "probability": 0.83,
+            "type": "Other",
+            "normalized_text": "Aave App"
+          },
+          {
+            "start": 20,
+            "end": 23,
+            "probability": 0.6789,
+            "type": "Other",
+            "normalized_text": "DeFi"
+          }
+        ],
+        "urls": [
+          {
+            "start": 64,
+            "end": 87,
+            "url": "https://t.co/8ZDFZ3l24G",
+            "expanded_url": "https://x.com/aave/status/2007457760061935712/photo/1",
+            "display_url": "pic.x.com/8ZDFZ3l24G",
+            "media_key": "3_2007457246439981056"
+          }
+        ]
+      },
+      "id": "2007457760061935712",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G9vrusvWwAAbXTj.png",
+          "width": 1600,
+          "height": 900,
+          "type": "photo",
+          "media_key": "3_2007457246439981056"
+        }
+      ]
+    },
+    {
+      "created_at": "2026-01-01T18:48:58.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 27,
+        "quote_count": 0,
+        "bookmark_count": 3,
+        "impression_count": 7171
+      },
+      "text": "Track this via @Token_Logic's dashboard: https://t.co/IeOINiTIgK",
+      "conversation_id": "2006799826604978583",
+      "entities": {
+        "mentions": [
+          {
+            "start": 15,
+            "end": 27,
+            "username": "Token_Logic",
+            "id": "1615046383962099713"
+          }
+        ],
+        "urls": [
+          {
+            "start": 41,
+            "end": 64,
+            "url": "https://t.co/IeOINiTIgK",
+            "expanded_url": "https://aave.tokenlogic.xyz/core-market",
+            "display_url": "aave.tokenlogic.xyz/core-market",
+            "status": 200,
+            "title": "Aave Analytics | TokenLogic",
+            "description": "Monitor deposits and borrowing positions for major stablecoins in the Aave Core market. © 2025 TokenLogic Inc. All Rights Reserved.",
+            "unwound_url": "https://aave.tokenlogic.xyz/core-market"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "2006799828756603221"
+      ],
+      "id": "2006799828756603221"
+    },
+    {
+      "created_at": "2026-01-01T18:48:57.000Z",
+      "public_metrics": {
+        "retweet_count": 140,
+        "reply_count": 73,
+        "like_count": 666,
+        "quote_count": 13,
+        "bookmark_count": 17,
+        "impression_count": 75989
+      },
+      "text": "Starting 2026 with an all-time high in ETH deposits on the @Ethereum Core market.\n\nHigher. https://t.co/vz957ooWhf",
+      "conversation_id": "2006799826604978583",
+      "entities": {
+        "mentions": [
+          {
+            "start": 59,
+            "end": 68,
+            "username": "ethereum",
+            "id": "2312333412"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 39,
+            "end": 41,
+            "probability": 0.6969,
+            "type": "Other",
+            "normalized_text": "ETH"
+          }
+        ],
+        "urls": [
+          {
+            "start": 91,
+            "end": 114,
+            "url": "https://t.co/vz957ooWhf",
+            "expanded_url": "https://x.com/aave/status/2006799826604978583/photo/1",
+            "display_url": "pic.x.com/vz957ooWhf",
+            "media_key": "3_2006799651119181824"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "2006799826604978583"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_2006799651119181824"
+        ]
+      },
+      "id": "2006799826604978583",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G9mVpnRWMAAKhrc.png",
+          "width": 1088,
+          "height": 942,
+          "type": "photo",
+          "media_key": "3_2006799651119181824"
+        }
+      ]
+    },
+    {
+      "created_at": "2026-01-01T14:35:06.000Z",
+      "public_metrics": {
+        "retweet_count": 44,
+        "reply_count": 108,
+        "like_count": 688,
+        "quote_count": 7,
+        "bookmark_count": 8,
+        "impression_count": 27874
+      },
+      "text": "New year, same mission.\n\nDeFi will win. https://t.co/IOcsvqfkHS",
+      "conversation_id": "2006735942028263806",
+      "edit_history_tweet_ids": [
+        "2006735942028263806"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_2006735466540797953"
+        ]
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 25,
+            "end": 28,
+            "probability": 0.3713,
+            "type": "Organization",
+            "normalized_text": "DeFi"
+          }
+        ],
+        "urls": [
+          {
+            "start": 40,
+            "end": 63,
+            "url": "https://t.co/IOcsvqfkHS",
+            "expanded_url": "https://x.com/aave/status/2006735942028263806/photo/1",
+            "display_url": "pic.x.com/IOcsvqfkHS",
+            "media_key": "3_2006735466540797953"
+          }
+        ]
+      },
+      "id": "2006735942028263806",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G9lbRlFXkAEioK4.jpg",
+          "width": 2048,
+          "height": 2048,
+          "type": "photo",
+          "media_key": "3_2006735466540797953"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-12-31T15:51:58.000Z",
+      "public_metrics": {
+        "retweet_count": 58,
+        "reply_count": 44,
+        "like_count": 468,
+        "quote_count": 7,
+        "bookmark_count": 5,
+        "impression_count": 55491
+      },
+      "text": "Aave ends the year with over $14B in stablecoin deposits. https://t.co/S2oti8hMy6",
+      "conversation_id": "2006392899043471394",
+      "edit_history_tweet_ids": [
+        "2006392899043471394"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_2006392787822841856"
+        ]
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 3,
+            "probability": 0.5748,
+            "type": "Other",
+            "normalized_text": "Aave"
+          },
+          {
+            "start": 37,
+            "end": 46,
+            "probability": 0.8035,
+            "type": "Other",
+            "normalized_text": "stablecoin"
+          }
+        ],
+        "urls": [
+          {
+            "start": 58,
+            "end": 81,
+            "url": "https://t.co/S2oti8hMy6",
+            "expanded_url": "https://x.com/aave/status/2006392899043471394/photo/1",
+            "display_url": "pic.x.com/S2oti8hMy6",
+            "media_key": "3_2006392787822841856"
+          }
+        ]
+      },
+      "id": "2006392899043471394",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G9gjnDYWEAA3mmk.png",
+          "width": 1632,
+          "height": 1413,
+          "type": "photo",
+          "media_key": "3_2006392787822841856"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-12-30T15:12:25.000Z",
+      "public_metrics": {
+        "retweet_count": 55,
+        "reply_count": 161,
+        "like_count": 747,
+        "quote_count": 22,
+        "bookmark_count": 14,
+        "impression_count": 60398
+      },
+      "text": "All fintech will be powered by DeFi.",
+      "conversation_id": "2006020556710092912",
+      "edit_history_tweet_ids": [
+        "2006020556710092912"
+      ],
+      "entities": {
+        "annotations": [
+          {
+            "start": 31,
+            "end": 34,
+            "probability": 0.5096,
+            "type": "Other",
+            "normalized_text": "DeFi"
+          }
+        ]
+      },
+      "id": "2006020556710092912"
+    },
+    {
+      "created_at": "2025-12-29T14:37:23.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 25,
+        "quote_count": 0,
+        "bookmark_count": 3,
+        "impression_count": 5493
+      },
+      "text": "To learn more, read the full case study: https://t.co/ulElSaYalh",
+      "conversation_id": "2005649345631400341",
+      "edit_history_tweet_ids": [
+        "2005649352476524875"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 41,
+            "end": 64,
+            "url": "https://t.co/ulElSaYalh",
+            "expanded_url": "http://aave.com/blog/aave-arbitrum?utm_source=x&utm_medium=post&utm_campaign=arbitrum",
+            "display_url": "aave.com/blog/aave-arbi…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/2008551637963411456/WqqUj6XR?format=jpg&name=orig",
+                "width": 1440,
+                "height": 771
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/2008551637963411456/WqqUj6XR?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Arbitrum",
+            "description": "Aave has solidified its role as a cornerstone of Arbitrum's ecosystem, establishing the chain as the premier \"home of DeFi.\"",
+            "unwound_url": "https://aave.com/blog/aave-arbitrum?utm_source=x&utm_medium=post&utm_campaign=arbitrum"
+          }
+        ]
+      },
+      "id": "2005649352476524875"
+    },
+    {
+      "created_at": "2025-12-29T14:37:22.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 3,
+        "like_count": 49,
+        "quote_count": 4,
+        "bookmark_count": 3,
+        "impression_count": 13703
+      },
+      "text": "Importantly, Arbitrum users demonstrate strong borrowing demand, with the highest utilization rate across all Aave deployments at around 78%.\n\nArbitrum also ranks first in active borrowers across all Aave markets, with over 25,000 positions. https://t.co/FNmZs8Hvmb",
+      "conversation_id": "2005649345631400341",
+      "edit_history_tweet_ids": [
+        "2005649350467227865"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_2005648326859878400"
+        ]
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 13,
+            "end": 20,
+            "probability": 0.457,
+            "type": "Organization",
+            "normalized_text": "Arbitrum"
+          },
+          {
+            "start": 143,
+            "end": 150,
+            "probability": 0.3802,
+            "type": "Organization",
+            "normalized_text": "Arbitrum"
+          }
+        ],
+        "urls": [
+          {
+            "start": 242,
+            "end": 265,
+            "url": "https://t.co/FNmZs8Hvmb",
+            "expanded_url": "https://x.com/aave/status/2005649350467227865/photo/1",
+            "display_url": "pic.x.com/FNmZs8Hvmb",
+            "media_key": "3_2005648326859878400"
+          }
+        ]
+      },
+      "id": "2005649350467227865",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G9V-huLW8AA3GJh.jpg",
+          "width": 1920,
+          "height": 1046,
+          "type": "photo",
+          "media_key": "3_2005648326859878400"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-12-29T14:37:22.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 20,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "impression_count": 2549
+      },
+      "text": "Aave's share of Arbitrum's total TVL has steadily increased over time, starting in the mid-single digits and reaching 40% by December 2025.\n\nMore users and more capital are flowing to Aave. https://t.co/34umBOAzBz",
+      "conversation_id": "2005649345631400341",
+      "edit_history_tweet_ids": [
+        "2005649348307399039"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_2005648284589699072"
+        ]
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 3,
+            "probability": 0.4433,
+            "type": "Organization",
+            "normalized_text": "Aave"
+          },
+          {
+            "start": 16,
+            "end": 23,
+            "probability": 0.4947,
+            "type": "Person",
+            "normalized_text": "Arbitrum"
+          },
+          {
+            "start": 33,
+            "end": 35,
+            "probability": 0.4115,
+            "type": "Organization",
+            "normalized_text": "TVL"
+          },
+          {
+            "start": 184,
+            "end": 187,
+            "probability": 0.3938,
+            "type": "Other",
+            "normalized_text": "Aave"
+          }
+        ],
+        "urls": [
+          {
+            "start": 190,
+            "end": 213,
+            "url": "https://t.co/34umBOAzBz",
+            "expanded_url": "https://x.com/aave/status/2005649348307399039/photo/1",
+            "display_url": "pic.x.com/34umBOAzBz",
+            "media_key": "3_2005648284589699072"
+          }
+        ]
+      },
+      "id": "2005649348307399039",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G9V-fQtXMAAxSFW.jpg",
+          "width": 1920,
+          "height": 838,
+          "type": "photo",
+          "media_key": "3_2005648284589699072"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-12-29T14:37:21.000Z",
+      "public_metrics": {
+        "retweet_count": 26,
+        "reply_count": 36,
+        "like_count": 253,
+        "quote_count": 12,
+        "bookmark_count": 15,
+        "impression_count": 66305
+      },
+      "text": "Aave launched on @arbitrum in 2022 and has become the second largest cross-chain deployment.\n\nWe've published a case study detailing Aave's success on the network.\n\nRead it below ↓ https://t.co/XlhLwaCBrc",
+      "conversation_id": "2005649345631400341",
+      "entities": {
+        "mentions": [
+          {
+            "start": 17,
+            "end": 26,
+            "username": "arbitrum",
+            "id": "1332033418088099843"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 0,
+            "end": 3,
+            "probability": 0.5191,
+            "type": "Other",
+            "normalized_text": "Aave"
+          },
+          {
+            "start": 133,
+            "end": 136,
+            "probability": 0.7192,
+            "type": "Other",
+            "normalized_text": "Aave"
+          }
+        ],
+        "urls": [
+          {
+            "start": 181,
+            "end": 204,
+            "url": "https://t.co/XlhLwaCBrc",
+            "expanded_url": "https://x.com/aave/status/2005649345631400341/photo/1",
+            "display_url": "pic.x.com/XlhLwaCBrc",
+            "media_key": "3_2005648243972087808"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "2005649345631400341"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_2005648243972087808"
+        ]
+      },
+      "id": "2005649345631400341",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G9V-c5ZXoAAde8b.jpg",
+          "width": 1440,
+          "height": 771,
+          "type": "photo",
+          "media_key": "3_2005648243972087808"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-12-22T17:28:05.000Z",
+      "public_metrics": {
+        "retweet_count": 47,
+        "reply_count": 51,
+        "like_count": 331,
+        "quote_count": 9,
+        "bookmark_count": 30,
+        "impression_count": 88351
+      },
+      "text": "Aave App will change how you, and everyone you know, interacts with DeFi forever. https://t.co/ZhChnULHfO",
+      "conversation_id": "2003155595210424394",
+      "edit_history_tweet_ids": [
+        "2003155595210424394"
+      ],
+      "attachments": {
+        "media_keys": [
+          "13_2003155350376075264"
+        ]
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 7,
+            "probability": 0.7691,
+            "type": "Other",
+            "normalized_text": "Aave App"
+          },
+          {
+            "start": 68,
+            "end": 71,
+            "probability": 0.445,
+            "type": "Other",
+            "normalized_text": "DeFi"
+          }
+        ],
+        "urls": [
+          {
+            "start": 82,
+            "end": 105,
+            "url": "https://t.co/ZhChnULHfO",
+            "expanded_url": "https://x.com/aave/status/2003155595210424394/video/1",
+            "display_url": "pic.x.com/ZhChnULHfO",
+            "media_key": "13_2003155350376075264"
+          }
+        ]
+      },
+      "id": "2003155595210424394",
+      "media": [
+        {
+          "width": 1920,
+          "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2003155350376075264/img/nRFozQFjTvro5O_1.jpg",
+          "height": 1080,
+          "type": "video",
+          "media_key": "13_2003155350376075264"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-12-22T15:07:18.000Z",
+      "public_metrics": {
+        "retweet_count": 36,
+        "reply_count": 46,
+        "like_count": 314,
+        "quote_count": 6,
+        "bookmark_count": 8,
+        "impression_count": 64053
+      },
+      "text": "In four months, @capmoney_ has deposited over $300M of its cUSD reserves in Aave.\n\nThese reserves provide a reliable, and scalable, DeFi base rate to cUSD stakers. https://t.co/w54uUPX3UI",
+      "conversation_id": "2003120165232554180",
+      "entities": {
+        "mentions": [
+          {
+            "start": 16,
+            "end": 26,
+            "username": "capmoney_",
+            "id": "1828233244908630016"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 76,
+            "end": 79,
+            "probability": 0.3191,
+            "type": "Other",
+            "normalized_text": "Aave"
+          }
+        ],
+        "urls": [
+          {
+            "start": 164,
+            "end": 187,
+            "url": "https://t.co/w54uUPX3UI",
+            "expanded_url": "https://x.com/aave/status/2003120165232554180/photo/1",
+            "display_url": "pic.x.com/w54uUPX3UI",
+            "media_key": "3_2003120106981752832"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "2003120165232554180"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_2003120106981752832"
+        ]
+      },
+      "id": "2003120165232554180",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G8yDH9MXAAAucxF.png",
+          "width": 1632,
+          "height": 1413,
+          "type": "photo",
+          "media_key": "3_2003120106981752832"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-12-18T16:10:52.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 17,
+        "reply_count": 0,
+        "like_count": 20,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 5321
+      },
+      "text": "Find more GHO data via @Token_Logic's dashboard here: https://t.co/krjXF24MLr",
+      "conversation_id": "2001686607062011946",
+      "entities": {
+        "mentions": [
+          {
+            "start": 23,
+            "end": 35,
+            "username": "Token_Logic",
+            "id": "1615046383962099713"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 10,
+            "end": 12,
+            "probability": 0.5733,
+            "type": "Other",
+            "normalized_text": "GHO"
+          }
+        ],
+        "urls": [
+          {
+            "start": 54,
+            "end": 77,
+            "url": "https://t.co/krjXF24MLr",
+            "expanded_url": "https://aave.tokenlogic.xyz/gho",
+            "display_url": "aave.tokenlogic.xyz/gho",
+            "status": 200,
+            "title": "Aave Analytics | TokenLogic",
+            "description": "Monitor GHO's key performance metrics including price, supply, distribution and collateral. On chains with Aave -governed facilitators, balances are determined by facilitator bucket level set by governance, with cross-chain transfers facilitated by Chainlink CCIP. On Lens, GHO is bridged onto Lens though Across Protocol Bridge This table lists the GHO minted by each Ethereum-based facilitator. As cross-chain facilitators lock/release on Ethereum and mint/burn on destination chains, this Ethereum-anchored",
+            "unwound_url": "https://aave.tokenlogic.xyz/gho"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "2001686609943470362"
+      ],
+      "id": "2001686609943470362"
+    },
+    {
+      "created_at": "2025-12-18T16:10:51.000Z",
+      "public_metrics": {
+        "retweet_count": 81,
+        "reply_count": 60,
+        "like_count": 332,
+        "quote_count": 8,
+        "bookmark_count": 7,
+        "impression_count": 68143
+      },
+      "text": "Aave's native stablecoin, @GHO, crossed 350 million circulating supply, a new all-time high. https://t.co/uSRMZFxL2Z",
+      "conversation_id": "2001686607062011946",
+      "entities": {
+        "mentions": [
+          {
+            "start": 26,
+            "end": 30,
+            "username": "GHO",
+            "id": "1623341641149939713"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 0,
+            "end": 3,
+            "probability": 0.5048,
+            "type": "Other",
+            "normalized_text": "Aave"
+          },
+          {
+            "start": 14,
+            "end": 23,
+            "probability": 0.6955,
+            "type": "Other",
+            "normalized_text": "stablecoin"
+          }
+        ],
+        "urls": [
+          {
+            "start": 93,
+            "end": 116,
+            "url": "https://t.co/uSRMZFxL2Z",
+            "expanded_url": "https://x.com/aave/status/2001686607062011946/photo/1",
+            "display_url": "pic.x.com/uSRMZFxL2Z",
+            "media_key": "3_2001686259215806464"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "2001686607062011946"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_2001686259215806464"
+        ]
+      },
+      "id": "2001686607062011946",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G8drDCBWsAAhGR0.png",
+          "width": 1632,
+          "height": 1413,
+          "type": "photo",
+          "media_key": "3_2001686259215806464"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-12-16T21:07:39.000Z",
+      "public_metrics": {
+        "retweet_count": 79,
+        "reply_count": 40,
+        "like_count": 858,
+        "quote_count": 4,
+        "bookmark_count": 130,
+        "impression_count": 73555
+      },
+      "text": "Aave will win. https://t.co/BdT6ght6Vp",
+      "conversation_id": "2001036522640830818",
+      "edit_history_tweet_ids": [
+        "2001036522640830818"
+      ],
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 3,
+            "probability": 0.5755,
+            "type": "Other",
+            "normalized_text": "Aave"
+          }
+        ],
+        "urls": [
+          {
+            "start": 15,
+            "end": 38,
+            "url": "https://t.co/BdT6ght6Vp",
+            "expanded_url": "https://twitter.com/StaniKulechov/status/2001036446098919461",
+            "display_url": "x.com/StaniKulechov/…"
+          }
+        ]
+      },
+      "id": "2001036522640830818"
+    },
+    {
+      "created_at": "2025-12-16T12:46:23.000Z",
+      "public_metrics": {
+        "retweet_count": 57,
+        "reply_count": 25,
+        "like_count": 518,
+        "quote_count": 5,
+        "bookmark_count": 46,
+        "impression_count": 38504
+      },
+      "text": "Aave V4 will bring the next trillion dollars onchain. https://t.co/stfvUXO4sd",
+      "conversation_id": "2000910375903224094",
+      "edit_history_tweet_ids": [
+        "2000910375903224094"
+      ],
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 6,
+            "probability": 0.642,
+            "type": "Other",
+            "normalized_text": "Aave V4"
+          }
+        ],
+        "urls": [
+          {
+            "start": 54,
+            "end": 77,
+            "url": "https://t.co/stfvUXO4sd",
+            "expanded_url": "https://twitter.com/FourPillarsFP/status/2000836690697707716",
+            "display_url": "x.com/FourPillarsFP/…"
+          }
+        ]
+      },
+      "id": "2000910375903224094"
+    },
+    {
+      "created_at": "2025-12-15T15:59:43.000Z",
+      "public_metrics": {
+        "retweet_count": 169,
+        "reply_count": 361,
+        "like_count": 1830,
+        "quote_count": 62,
+        "bookmark_count": 36,
+        "impression_count": 124246
+      },
+      "text": "DeFi will win.",
+      "conversation_id": "2000596643612352823",
+      "edit_history_tweet_ids": [
+        "2000596643612352823"
+      ],
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 3,
+            "probability": 0.3669,
+            "type": "Other",
+            "normalized_text": "DeFi"
+          }
+        ]
+      },
+      "id": "2000596643612352823"
+    },
+    {
+      "created_at": "2025-12-12T19:56:43.000Z",
+      "public_metrics": {
+        "retweet_count": 47,
+        "reply_count": 28,
+        "like_count": 280,
+        "quote_count": 4,
+        "bookmark_count": 18,
+        "impression_count": 74474
+      },
+      "text": "The Aave V4 codebase is now moving through an open security review on @sherlockdefi.\n\nAnyone who has audited Aave before, or who understands lending-pool mechanics, will find familiar ground.\n\nWe encourage you to participate 👻 https://t.co/Ldj2TZNNUQ",
+      "conversation_id": "1999569120358973562",
+      "entities": {
+        "mentions": [
+          {
+            "start": 70,
+            "end": 83,
+            "username": "sherlockdefi",
+            "id": "1364431083824062464"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 4,
+            "end": 10,
+            "probability": 0.7934,
+            "type": "Other",
+            "normalized_text": "Aave V4"
+          },
+          {
+            "start": 109,
+            "end": 112,
+            "probability": 0.7996,
+            "type": "Other",
+            "normalized_text": "Aave"
+          }
+        ],
+        "urls": [
+          {
+            "start": 227,
+            "end": 250,
+            "url": "https://t.co/Ldj2TZNNUQ",
+            "expanded_url": "https://x.com/aave/status/1999569120358973562/photo/1",
+            "display_url": "pic.x.com/Ldj2TZNNUQ",
+            "media_key": "3_1999568425803198464"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1999569120358973562"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1999568425803198464"
+        ]
+      },
+      "id": "1999569120358973562",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G7_k45wWMAA2CFk.jpg",
+          "width": 4096,
+          "height": 2193,
+          "type": "photo",
+          "media_key": "3_1999568425803198464"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-12-12T19:56:43.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 13,
+        "reply_count": 0,
+        "like_count": 18,
+        "quote_count": 1,
+        "bookmark_count": 1,
+        "impression_count": 5686
+      },
+      "text": "Find the contest here: https://t.co/2Yv4CQsnD6",
+      "conversation_id": "1999569120358973562",
+      "edit_history_tweet_ids": [
+        "1999569122711982230"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 23,
+            "end": 46,
+            "url": "https://t.co/2Yv4CQsnD6",
+            "expanded_url": "https://audits.sherlock.xyz/contests/1209",
+            "display_url": "audits.sherlock.xyz/contests/1209",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/2008218020401827840/Lt8Maz1O?format=png&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/2008218020401827840/Lt8Maz1O?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Aave V4 Contest - 365,000 USDC",
+            "description": "Aave V4 introduces a new Hub and Spoke architecture. This architecture introduces several new design paradigms to Aave, each with their own set of benefits. The contest should focus on edge cases in accounting and new features.",
+            "unwound_url": "https://audits.sherlock.xyz/contests/1209"
+          }
+        ]
+      },
+      "id": "1999569122711982230"
+    },
+    {
+      "created_at": "2025-12-12T17:34:17.000Z",
+      "public_metrics": {
+        "retweet_count": 60,
+        "reply_count": 60,
+        "like_count": 412,
+        "quote_count": 4,
+        "bookmark_count": 18,
+        "impression_count": 88671
+      },
+      "text": "mUSD by @MetaMask is now listed on @ethereum Core and @LineaBuild.\n\nUsers can supply and borrow mUSD on both markets. https://t.co/I87a2h72HE",
+      "conversation_id": "1999533275992219860",
+      "entities": {
+        "mentions": [
+          {
+            "start": 8,
+            "end": 17,
+            "username": "MetaMask",
+            "id": "3278906401"
+          },
+          {
+            "start": 35,
+            "end": 44,
+            "username": "ethereum",
+            "id": "2312333412"
+          },
+          {
+            "start": 54,
+            "end": 65,
+            "username": "LineaBuild",
+            "id": "1636106911085912069"
+          }
+        ],
+        "urls": [
+          {
+            "start": 118,
+            "end": 141,
+            "url": "https://t.co/I87a2h72HE",
+            "expanded_url": "https://x.com/aave/status/1999533275992219860/video/1",
+            "display_url": "pic.x.com/I87a2h72HE",
+            "media_key": "13_1999533045355855872"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1999533275992219860"
+      ],
+      "attachments": {
+        "media_keys": [
+          "13_1999533045355855872"
+        ]
+      },
+      "id": "1999533275992219860",
+      "media": [
+        {
+          "width": 1620,
+          "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1999533045355855872/img/wmPvwO3S238NZFOK.jpg",
+          "height": 1620,
+          "type": "video",
+          "media_key": "13_1999533045355855872"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-12-12T17:34:17.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 12,
+        "reply_count": 0,
+        "like_count": 15,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 4401
+      },
+      "text": "Find more info on supply and borrow caps here: https://t.co/UT62uqf8sF",
+      "conversation_id": "1999533275992219860",
+      "edit_history_tweet_ids": [
+        "1999533277334417442"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 47,
+            "end": 70,
+            "url": "https://t.co/UT62uqf8sF",
+            "expanded_url": "https://governance.aave.com/t/arfc-add-metamask-usd-musd-to-aave-v3-core-instance-on-ethereum-and-linea/23097/1",
+            "display_url": "governance.aave.com/t/arfc-add-met…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1999533281071464461/i3EusJ-q?format=png&name=orig",
+                "width": 800,
+                "height": 512
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1999533281071464461/i3EusJ-q?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "[ARFC] Add MetaMask USD (mUSD) to Aave v3 Core Instance on Ethereum and Linea",
+            "description": "title: [ARFC] Add MetaMask USD (mUSD) to Aave v3 Core Instance on Ethereum and Linea author: @TokenLogic created: 2025-09-09 Summary This publication proposes onboarding MetaMask’s mUSD stablecoin to the Core instance of Aave v3 on Ethereum and Linea. Motivation MetaMask USD (mUSD) is a dollar-denominated stablecoin natively integrated into MetaMask. mUSD is issued by Bridge, a Stripe company, and stablecoin issuance and orchestration platform. On-chain MetaMask USD is powered by M0, a dec...",
+            "unwound_url": "https://governance.aave.com/t/arfc-add-metamask-usd-musd-to-aave-v3-core-instance-on-ethereum-and-linea/23097/1"
+          }
+        ]
+      },
+      "id": "1999533277334417442"
+    },
+    {
+      "created_at": "2025-12-11T20:38:33.000Z",
+      "public_metrics": {
+        "retweet_count": 44,
+        "reply_count": 25,
+        "like_count": 352,
+        "quote_count": 17,
+        "bookmark_count": 63,
+        "impression_count": 80841
+      },
+      "text": "Liquidations are essential for keeping lending markets safe.\n\nSince launch, Aave has processed over $3.3B in liquidations to protect the protocol against bad debt.\n\nWe've published a blog post introducing V4's new liquidation engine and how it improves on V3's approach. https://t.co/LE3zX4FN1V",
+      "conversation_id": "1999217260779712793",
+      "edit_history_tweet_ids": [
+        "1999217260779712793"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1999217108350038018"
+        ]
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 76,
+            "end": 79,
+            "probability": 0.8112,
+            "type": "Other",
+            "normalized_text": "Aave"
+          },
+          {
+            "start": 205,
+            "end": 206,
+            "probability": 0.6183,
+            "type": "Other",
+            "normalized_text": "V4"
+          },
+          {
+            "start": 256,
+            "end": 257,
+            "probability": 0.5999,
+            "type": "Other",
+            "normalized_text": "V3"
+          }
+        ],
+        "urls": [
+          {
+            "start": 271,
+            "end": 294,
+            "url": "https://t.co/LE3zX4FN1V",
+            "expanded_url": "https://x.com/aave/status/1999217260779712793/photo/1",
+            "display_url": "pic.x.com/LE3zX4FN1V",
+            "media_key": "3_1999217108350038018"
+          }
+        ]
+      },
+      "id": "1999217260779712793",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G76lXiQWcAIQnpX.jpg",
+          "width": 4096,
+          "height": 2193,
+          "type": "photo",
+          "media_key": "3_1999217108350038018"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-12-11T20:38:33.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 11,
+        "reply_count": 0,
+        "like_count": 33,
+        "quote_count": 0,
+        "bookmark_count": 10,
+        "impression_count": 6460
+      },
+      "text": "Read it here: https://t.co/AtKhzYzAHw",
+      "conversation_id": "1999217260779712793",
+      "edit_history_tweet_ids": [
+        "1999217263451255124"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 14,
+            "end": 37,
+            "url": "https://t.co/AtKhzYzAHw",
+            "expanded_url": "https://aave.com/blog/aave-v4-liquidations?utm_source=x&utm_medium=post&utm_campaign=liquidations",
+            "display_url": "aave.com/blog/aave-v4-l…",
+            "status": 200,
+            "title": "Aave V4's New Liquidation Engine",
+            "description": "Aave is an Open Source Protocol to create Non-Custodial Liquidity Markets to earn interest on supplying and borrowing assets with a variable interest rate. The protocol is designed for easy integration into your products and services.",
+            "unwound_url": "https://aave.com/blog/aave-v4-liquidations?utm_source=x&utm_medium=post&utm_campaign=liquidations"
+          }
+        ]
+      },
+      "id": "1999217263451255124"
+    },
+    {
+      "created_at": "2025-12-11T15:08:20.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 23,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 4276
+      },
+      "text": "Case study here: https://t.co/abNY0eYHEu",
+      "conversation_id": "1999134157037822183",
+      "edit_history_tweet_ids": [
+        "1999134158375751923"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 17,
+            "end": 40,
+            "url": "https://t.co/abNY0eYHEu",
+            "expanded_url": "https://aave.com/blog/tangem",
+            "display_url": "aave.com/blog/tangem",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/2016154172307996672/DqDk9V7B?format=jpg&name=orig",
+                "width": 7680,
+                "height": 4112
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/2016154172307996672/DqDk9V7B?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Tangem",
+            "description": "How Tangem uses Aave to Power Non-Custodial Yield.",
+            "unwound_url": "https://aave.com/blog/tangem"
+          }
+        ]
+      },
+      "id": "1999134158375751923"
+    },
+    {
+      "created_at": "2025-12-11T15:08:19.000Z",
+      "public_metrics": {
+        "retweet_count": 22,
+        "reply_count": 37,
+        "like_count": 212,
+        "quote_count": 4,
+        "bookmark_count": 23,
+        "impression_count": 36315
+      },
+      "text": "After integrating Aave, @Tangem users can now supply stablecoins to Aave’s liquidity pools to earn yield.\n\nTangem’s \"Yield Mode\" makes this quick and easy. We've published a case study on how it works.\n\nRead it below ↓ https://t.co/5XODe1VgJQ",
+      "conversation_id": "1999134157037822183",
+      "entities": {
+        "mentions": [
+          {
+            "start": 24,
+            "end": 31,
+            "username": "Tangem",
+            "id": "922794323233603584"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 18,
+            "end": 21,
+            "probability": 0.7769,
+            "type": "Other",
+            "normalized_text": "Aave"
+          },
+          {
+            "start": 68,
+            "end": 71,
+            "probability": 0.5606,
+            "type": "Other",
+            "normalized_text": "Aave"
+          },
+          {
+            "start": 107,
+            "end": 112,
+            "probability": 0.5885,
+            "type": "Other",
+            "normalized_text": "Tangem"
+          },
+          {
+            "start": 117,
+            "end": 126,
+            "probability": 0.6942,
+            "type": "Other",
+            "normalized_text": "Yield Mode"
+          }
+        ],
+        "urls": [
+          {
+            "start": 219,
+            "end": 242,
+            "url": "https://t.co/5XODe1VgJQ",
+            "expanded_url": "https://x.com/aave/status/1999134157037822183/video/1",
+            "display_url": "pic.x.com/5XODe1VgJQ",
+            "media_key": "13_1999134000586043392"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1999134157037822183"
+      ],
+      "attachments": {
+        "media_keys": [
+          "13_1999134000586043392"
+        ]
+      },
+      "id": "1999134157037822183",
+      "media": [
+        {
+          "width": 1620,
+          "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1999134000586043392/img/0kCKU99C8Te1fem3.jpg",
+          "height": 1620,
+          "type": "video",
+          "media_key": "13_1999134000586043392"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-12-10T20:57:20.000Z",
+      "public_metrics": {
+        "retweet_count": 58,
+        "reply_count": 34,
+        "like_count": 401,
+        "quote_count": 14,
+        "bookmark_count": 36,
+        "impression_count": 113689
+      },
+      "text": "Aave App takes the mystery out of saving.\n\nWith Future Mode, you can forecast your savings, revealing what you'll have in a year, five years, and beyond. https://t.co/XAQysa7jXw",
+      "conversation_id": "1998859600880410822",
+      "edit_history_tweet_ids": [
+        "1998859600880410822"
+      ],
+      "attachments": {
+        "media_keys": [
+          "13_1998859256884310017"
+        ]
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 7,
+            "probability": 0.9013,
+            "type": "Other",
+            "normalized_text": "Aave App"
+          },
+          {
+            "start": 48,
+            "end": 53,
+            "probability": 0.5022,
+            "type": "Other",
+            "normalized_text": "Future"
+          }
+        ],
+        "urls": [
+          {
+            "start": 154,
+            "end": 177,
+            "url": "https://t.co/XAQysa7jXw",
+            "expanded_url": "https://x.com/aave/status/1998859600880410822/video/1",
+            "display_url": "pic.x.com/XAQysa7jXw",
+            "media_key": "13_1998859256884310017"
+          }
+        ]
+      },
+      "id": "1998859600880410822",
+      "media": [
+        {
+          "width": 1920,
+          "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1998859256884310017/img/uaWgfQm61Ffbjq1M.jpg",
+          "height": 1080,
+          "type": "video",
+          "media_key": "13_1998859256884310017"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-12-10T15:51:35.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 12,
+        "reply_count": 2,
+        "like_count": 24,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 3984
+      },
+      "text": "The next phase of stablecoin adoption should emerge from embedded DeFi, focusing specifically on credit and yield.\n\nTo learn more about how Aave can help with this, read here: https://t.co/k1xYqNrno5",
+      "conversation_id": "1998782648651587750",
+      "edit_history_tweet_ids": [
+        "1998782658361315572"
+      ],
+      "entities": {
+        "annotations": [
+          {
+            "start": 18,
+            "end": 27,
+            "probability": 0.7755,
+            "type": "Other",
+            "normalized_text": "stablecoin"
+          },
+          {
+            "start": 66,
+            "end": 69,
+            "probability": 0.62,
+            "type": "Other",
+            "normalized_text": "DeFi"
+          },
+          {
+            "start": 140,
+            "end": 143,
+            "probability": 0.6545,
+            "type": "Other",
+            "normalized_text": "Aave"
+          }
+        ],
+        "urls": [
+          {
+            "start": 176,
+            "end": 199,
+            "url": "https://t.co/k1xYqNrno5",
+            "expanded_url": "https://aave.com/blog/aave-latam-stablecoin-revolution?utm_source=x&utm_medium=post&utm_campaign=latam",
+            "display_url": "aave.com/blog/aave-lata…",
+            "status": 200,
+            "title": "How Aave is Powering Latin America's Stablecoin Revolution",
+            "description": "Aave is bringing real yield, credit, and capital efficiency to the hundreds of millions of Latin Americans embracing stablecoins.",
+            "unwound_url": "https://aave.com/blog/aave-latam-stablecoin-revolution?utm_source=x&utm_medium=post&utm_campaign=latam"
+          }
+        ]
+      },
+      "id": "1998782658361315572"
+    },
+    {
+      "created_at": "2025-12-10T15:51:35.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 11,
+        "reply_count": 2,
+        "like_count": 30,
+        "quote_count": 1,
+        "bookmark_count": 1,
+        "impression_count": 4657
+      },
+      "text": "For example, the Argentina-based fintech @lemonapp_ar integrated Aave in 2022 for its Earn program.\n\nFast forward to 2025, and Aave now powers yields on deposits for over 130,000 users who have opted into Lemon Earn. https://t.co/8rU4Nvxpe5",
+      "conversation_id": "1998782648651587750",
+      "entities": {
+        "mentions": [
+          {
+            "start": 41,
+            "end": 53,
+            "username": "lemonapp_ar",
+            "id": "1233466414582915076"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 17,
+            "end": 25,
+            "probability": 0.9008,
+            "type": "Place",
+            "normalized_text": "Argentina"
+          },
+          {
+            "start": 205,
+            "end": 214,
+            "probability": 0.8834,
+            "type": "Other",
+            "normalized_text": "Lemon Earn"
+          }
+        ],
+        "urls": [
+          {
+            "start": 217,
+            "end": 240,
+            "url": "https://t.co/8rU4Nvxpe5",
+            "expanded_url": "https://x.com/aave/status/1998782656247406601/photo/1",
+            "display_url": "pic.x.com/8rU4Nvxpe5",
+            "media_key": "3_1998782207360434177"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1998782656247406601"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1998782207360434177"
+        ]
+      },
+      "id": "1998782656247406601",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G70Z090XAAEkfhy.jpg",
+          "width": 1742,
+          "height": 1782,
+          "type": "photo",
+          "media_key": "3_1998782207360434177"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-12-10T15:51:34.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 14,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 971
+      },
+      "text": "Despite clear demand for stablecoins, DeFi adoption has lagged compared to overall crypto usage and activity.\n\nChainalysis also shared that LatAm users rely more on centralized service providers compared to users elsewhere around the globe.\n\nThis is where embedded DeFi shines. https://t.co/aTbZBvbTl9",
+      "conversation_id": "1998782648651587750",
+      "edit_history_tweet_ids": [
+        "1998782653722439929"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1998782135184871425"
+        ]
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 38,
+            "end": 41,
+            "probability": 0.4849,
+            "type": "Other",
+            "normalized_text": "DeFi"
+          },
+          {
+            "start": 111,
+            "end": 121,
+            "probability": 0.6062,
+            "type": "Other",
+            "normalized_text": "Chainalysis"
+          },
+          {
+            "start": 140,
+            "end": 144,
+            "probability": 0.6731,
+            "type": "Other",
+            "normalized_text": "LatAm"
+          },
+          {
+            "start": 265,
+            "end": 268,
+            "probability": 0.5921,
+            "type": "Other",
+            "normalized_text": "DeFi"
+          }
+        ],
+        "urls": [
+          {
+            "start": 278,
+            "end": 301,
+            "url": "https://t.co/aTbZBvbTl9",
+            "expanded_url": "https://x.com/aave/status/1998782653722439929/photo/1",
+            "display_url": "pic.x.com/aTbZBvbTl9",
+            "media_key": "3_1998782135184871425"
+          }
+        ]
+      },
+      "id": "1998782653722439929",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G70Zww8XUAEttyM.png",
+          "width": 1742,
+          "height": 1782,
+          "type": "photo",
+          "media_key": "3_1998782135184871425"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-12-10T15:51:34.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 2,
+        "like_count": 16,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1552
+      },
+      "text": "According to Chainalysis, crypto transfer volumes in LatAm increased from 53% to 63% year-over-year growth in 2025.\n\nThis is led by fintech apps integrating crypto and offering fiat on-ramps, remittance services, and connecting with local payment systems. https://t.co/rqff53aLfB",
+      "conversation_id": "1998782648651587750",
+      "edit_history_tweet_ids": [
+        "1998782650706768325"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1998781773484859392"
+        ]
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 13,
+            "end": 23,
+            "probability": 0.6418,
+            "type": "Other",
+            "normalized_text": "Chainalysis"
+          },
+          {
+            "start": 26,
+            "end": 31,
+            "probability": 0.5042,
+            "type": "Other",
+            "normalized_text": "crypto"
+          },
+          {
+            "start": 53,
+            "end": 57,
+            "probability": 0.6202,
+            "type": "Other",
+            "normalized_text": "LatAm"
+          }
+        ],
+        "urls": [
+          {
+            "start": 256,
+            "end": 279,
+            "url": "https://t.co/rqff53aLfB",
+            "expanded_url": "https://x.com/aave/status/1998782650706768325/photo/1",
+            "display_url": "pic.x.com/rqff53aLfB",
+            "media_key": "3_1998781773484859392"
+          }
+        ]
+      },
+      "id": "1998782650706768325",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G70ZbtgXIAAU-TL.png",
+          "width": 1742,
+          "height": 1782,
+          "type": "photo",
+          "media_key": "3_1998781773484859392"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-12-10T15:51:33.000Z",
+      "public_metrics": {
+        "retweet_count": 57,
+        "reply_count": 24,
+        "like_count": 343,
+        "quote_count": 11,
+        "bookmark_count": 41,
+        "impression_count": 92290
+      },
+      "text": "A stablecoin revolution is underway in Latin America.\n\nWith partners like @lemonapp_ar, @RipioApp, @buenbit, and @belo_app, Aave is playing an important role in it. https://t.co/wIXPWHBfs0",
+      "conversation_id": "1998782648651587750",
+      "entities": {
+        "mentions": [
+          {
+            "start": 74,
+            "end": 86,
+            "username": "lemonapp_ar",
+            "id": "1233466414582915076"
+          },
+          {
+            "start": 88,
+            "end": 97,
+            "username": "RipioApp",
+            "id": "2490604796"
+          },
+          {
+            "start": 99,
+            "end": 107,
+            "username": "buenbit",
+            "id": "986728447979466752"
+          },
+          {
+            "start": 113,
+            "end": 122,
+            "username": "belo_app",
+            "id": "1263942652397051904"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 2,
+            "end": 11,
+            "probability": 0.5684,
+            "type": "Other",
+            "normalized_text": "stablecoin"
+          },
+          {
+            "start": 45,
+            "end": 51,
+            "probability": 0.409,
+            "type": "Place",
+            "normalized_text": "America"
+          },
+          {
+            "start": 124,
+            "end": 127,
+            "probability": 0.5495,
+            "type": "Other",
+            "normalized_text": "Aave"
+          }
+        ],
+        "urls": [
+          {
+            "start": 165,
+            "end": 188,
+            "url": "https://t.co/wIXPWHBfs0",
+            "expanded_url": "https://x.com/aave/status/1998782648651587750/photo/1",
+            "display_url": "pic.x.com/wIXPWHBfs0",
+            "media_key": "3_1998781738122637312"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1998782648651587750"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1998781738122637312"
+        ]
+      },
+      "id": "1998782648651587750",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G70ZZpxWcAAWaZ1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "type": "photo",
+          "media_key": "3_1998781738122637312"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-12-09T14:17:38.000Z",
+      "public_metrics": {
+        "retweet_count": 38,
+        "reply_count": 17,
+        "like_count": 242,
+        "quote_count": 0,
+        "bookmark_count": 9,
+        "impression_count": 20704
+      },
+      "text": "Aave's Horizon RWA market is the largest and fastest-growing market for RWA-backed loans.\n\nSee @LlamaRisk's report on Horizon's key trends since launch: https://t.co/FQWxvzqg1t",
+      "conversation_id": "1998396624544977004",
+      "entities": {
+        "mentions": [
+          {
+            "start": 95,
+            "end": 105,
+            "username": "LlamaRisk",
+            "id": "1494086645628518408"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 0,
+            "end": 3,
+            "probability": 0.5209,
+            "type": "Organization",
+            "normalized_text": "Aave"
+          },
+          {
+            "start": 7,
+            "end": 17,
+            "probability": 0.6441,
+            "type": "Other",
+            "normalized_text": "Horizon RWA"
+          },
+          {
+            "start": 72,
+            "end": 74,
+            "probability": 0.4893,
+            "type": "Other",
+            "normalized_text": "RWA"
+          },
+          {
+            "start": 118,
+            "end": 124,
+            "probability": 0.8729,
+            "type": "Other",
+            "normalized_text": "Horizon"
+          }
+        ],
+        "urls": [
+          {
+            "start": 153,
+            "end": 176,
+            "url": "https://t.co/FQWxvzqg1t",
+            "expanded_url": "https://twitter.com/LlamaRisk/status/1998391030303859126",
+            "display_url": "x.com/LlamaRisk/stat…"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1998396624544977004"
+      ],
+      "id": "1998396624544977004"
+    },
+    {
+      "created_at": "2025-12-09T14:08:43.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 9,
+        "reply_count": 4,
+        "like_count": 59,
+        "quote_count": 1,
+        "bookmark_count": 1,
+        "impression_count": 11221
+      },
+      "text": "Shoutout to @aixarizzo for the amazing Argentina inspo.",
+      "conversation_id": "1998110859764396275",
+      "entities": {
+        "mentions": [
+          {
+            "start": 12,
+            "end": 22,
+            "username": "aixarizzo",
+            "id": "412770985"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 39,
+            "end": 47,
+            "probability": 0.9644,
+            "type": "Place",
+            "normalized_text": "Argentina"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1998394383259816316"
+      ],
+      "id": "1998394383259816316"
+    },
+    {
+      "created_at": "2025-12-08T19:22:06.000Z",
+      "public_metrics": {
+        "retweet_count": 64,
+        "reply_count": 49,
+        "like_count": 400,
+        "quote_count": 14,
+        "bookmark_count": 36,
+        "impression_count": 62996
+      },
+      "text": "Argentinians are using crypto to escape inflation and protect their savings.\n\nIt shows what, and who, crypto is really for. https://t.co/P8EU6cJgFT",
+      "conversation_id": "1998110859764396275",
+      "edit_history_tweet_ids": [
+        "1998110859764396275"
+      ],
+      "attachments": {
+        "media_keys": [
+          "13_1998109781333020672"
+        ]
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 23,
+            "end": 28,
+            "probability": 0.6617,
+            "type": "Other",
+            "normalized_text": "crypto"
+          },
+          {
+            "start": 102,
+            "end": 107,
+            "probability": 0.642,
+            "type": "Other",
+            "normalized_text": "crypto"
+          }
+        ],
+        "urls": [
+          {
+            "start": 124,
+            "end": 147,
+            "url": "https://t.co/P8EU6cJgFT",
+            "expanded_url": "https://x.com/aave/status/1998110859764396275/video/1",
+            "display_url": "pic.x.com/P8EU6cJgFT",
+            "media_key": "13_1998109781333020672"
+          }
+        ]
+      },
+      "id": "1998110859764396275",
+      "media": [
+        {
+          "width": 1080,
+          "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1998109781333020672/img/SrCJuI0QA-3iNL91.jpg",
+          "height": 1920,
+          "type": "video",
+          "media_key": "13_1998109781333020672"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-12-04T14:44:18.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 1,
+        "like_count": 21,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 4583
+      },
+      "text": "Learn more about this partnership: https://t.co/pkAOnk0ZI8",
+      "conversation_id": "1996591393817473247",
+      "edit_history_tweet_ids": [
+        "1996591397772689434"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 35,
+            "end": 58,
+            "url": "https://t.co/pkAOnk0ZI8",
+            "expanded_url": "https://aave.com/blog/aave-cow-swap",
+            "display_url": "aave.com/blog/aave-cow-…",
+            "status": 200,
+            "title": "Aave Labs Partners with CoW Swap",
+            "description": "Aave Labs has entered into a strategic partnership with CoW Swap, the leading DEX aggregator and pioneer of intent-based trading.",
+            "unwound_url": "https://aave.com/blog/aave-cow-swap"
+          }
+        ]
+      },
+      "id": "1996591397772689434"
+    },
+    {
+      "created_at": "2025-12-04T14:44:18.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 8,
+        "reply_count": 3,
+        "like_count": 33,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 5387
+      },
+      "text": "CoW Swap also powers https://t.co/uaJ3qsRWMw's swap adapters, which let you manage complex positions in a single transaction.\n\nYou can repay borrows using collateral, swap between collateral types, change debt positions, or withdraw and swap assets.\n\nhttps://t.co/3PplbsRd7F",
+      "conversation_id": "1996591393817473247",
+      "edit_history_tweet_ids": [
+        "1996591396313092481"
+      ],
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 7,
+            "probability": 0.5945,
+            "type": "Other",
+            "normalized_text": "CoW Swap"
+          }
+        ],
+        "urls": [
+          {
+            "start": 21,
+            "end": 44,
+            "url": "https://t.co/uaJ3qsRWMw",
+            "expanded_url": "http://aave.com",
+            "display_url": "aave.com",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/2014118982119514112/Uy468pgr?format=png&name=orig",
+                "width": 1200,
+                "height": 675
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/2014118982119514112/Uy468pgr?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Aave",
+            "description": "Aave is an Open Source Protocol to create Non-Custodial Liquidity Markets to earn interest on supplying and borrowing assets with a variable interest rate. The protocol is designed for easy integration into your products and services.",
+            "unwound_url": "https://aave.com/"
+          },
+          {
+            "start": 251,
+            "end": 274,
+            "url": "https://t.co/3PplbsRd7F",
+            "expanded_url": "https://aave.com/docs/aave-v3/smart-contracts/swap-features",
+            "display_url": "aave.com/docs/aave-v3/s…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1996591439484948481/MFuvUIlS?format=png&name=orig",
+                "width": 1080,
+                "height": 570
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1996591439484948481/MFuvUIlS?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Swap Features",
+            "description": "Aave Interface swap features and adapter contracts.",
+            "unwound_url": "https://aave.com/docs/aave-v3/smart-contracts/swap-features"
+          }
+        ]
+      },
+      "id": "1996591396313092481"
+    },
+    {
+      "created_at": "2025-12-04T14:44:17.000Z",
+      "public_metrics": {
+        "retweet_count": 56,
+        "reply_count": 41,
+        "like_count": 429,
+        "quote_count": 13,
+        "bookmark_count": 20,
+        "impression_count": 109383
+      },
+      "text": "Aave Labs is partnering with @CoWSwap to provide an improved swap experience across https://t.co/uaJ3qsRWMw.\n\nSwaps will now have better prices via CoW Swap's solver and protection against MEV attacks. https://t.co/hlsVuWpLqO",
+      "conversation_id": "1996591393817473247",
+      "entities": {
+        "mentions": [
+          {
+            "start": 29,
+            "end": 37,
+            "username": "CoWSwap",
+            "id": "1383143419128782848"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 0,
+            "end": 8,
+            "probability": 0.5818,
+            "type": "Other",
+            "normalized_text": "Aave Labs"
+          },
+          {
+            "start": 148,
+            "end": 155,
+            "probability": 0.7147,
+            "type": "Other",
+            "normalized_text": "CoW Swap"
+          },
+          {
+            "start": 189,
+            "end": 191,
+            "probability": 0.55,
+            "type": "Other",
+            "normalized_text": "MEV"
+          }
+        ],
+        "urls": [
+          {
+            "start": 84,
+            "end": 107,
+            "url": "https://t.co/uaJ3qsRWMw",
+            "expanded_url": "http://aave.com",
+            "display_url": "aave.com",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/2014118982119514112/Uy468pgr?format=png&name=orig",
+                "width": 1200,
+                "height": 675
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/2014118982119514112/Uy468pgr?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Aave",
+            "description": "Aave is an Open Source Protocol to create Non-Custodial Liquidity Markets to earn interest on supplying and borrowing assets with a variable interest rate. The protocol is designed for easy integration into your products and services.",
+            "unwound_url": "https://aave.com/"
+          },
+          {
+            "start": 202,
+            "end": 225,
+            "url": "https://t.co/hlsVuWpLqO",
+            "expanded_url": "https://x.com/aave/status/1996591393817473247/photo/1",
+            "display_url": "pic.x.com/hlsVuWpLqO",
+            "media_key": "3_1996591187755446272"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1996591393817473247"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1996591187755446272"
+        ]
+      },
+      "id": "1996591393817473247",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G7VRG1vWsAAOgy7.jpg",
+          "width": 4096,
+          "height": 2193,
+          "type": "photo",
+          "media_key": "3_1996591187755446272"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-12-03T14:13:50.000Z",
+      "public_metrics": {
+        "retweet_count": 55,
+        "reply_count": 67,
+        "like_count": 422,
+        "quote_count": 17,
+        "bookmark_count": 12,
+        "impression_count": 63639
+      },
+      "text": "Aave on @Aptos crossed $75M net deposits. https://t.co/TG0x1qoprq",
+      "conversation_id": "1996221343293923798",
+      "entities": {
+        "mentions": [
+          {
+            "start": 8,
+            "end": 14,
+            "username": "Aptos",
+            "id": "1491526425580474368"
+          }
+        ],
+        "urls": [
+          {
+            "start": 42,
+            "end": 65,
+            "url": "https://t.co/TG0x1qoprq",
+            "expanded_url": "https://x.com/aave/status/1996221343293923798/video/1",
+            "display_url": "pic.x.com/TG0x1qoprq",
+            "media_key": "13_1996221286171725824"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1996221343293923798"
+      ],
+      "attachments": {
+        "media_keys": [
+          "13_1996221286171725824"
+        ]
+      },
+      "id": "1996221343293923798",
+      "media": [
+        {
+          "width": 1920,
+          "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996221286171725824/img/GyBQ9_eMIZnYH1QO.jpg",
+          "height": 1080,
+          "type": "video",
+          "media_key": "13_1996221286171725824"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-12-02T16:24:48.000Z",
+      "public_metrics": {
+        "retweet_count": 32,
+        "reply_count": 41,
+        "like_count": 230,
+        "quote_count": 13,
+        "bookmark_count": 15,
+        "impression_count": 51126
+      },
+      "text": "Just use Aave, @EFDevcon 👻 https://t.co/UyXsAfF2xB",
+      "conversation_id": "1995891911735783700",
+      "entities": {
+        "mentions": [
+          {
+            "start": 15,
+            "end": 24,
+            "username": "EFDevcon",
+            "id": "1013526003015184385"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 9,
+            "end": 12,
+            "probability": 0.8069,
+            "type": "Other",
+            "normalized_text": "Aave"
+          }
+        ],
+        "urls": [
+          {
+            "start": 27,
+            "end": 50,
+            "url": "https://t.co/UyXsAfF2xB",
+            "expanded_url": "https://x.com/aave/status/1995891911735783700/video/1",
+            "display_url": "pic.x.com/UyXsAfF2xB",
+            "media_key": "13_1995891771000123392"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1995891911735783700"
+      ],
+      "attachments": {
+        "media_keys": [
+          "13_1995891771000123392"
+        ]
+      },
+      "id": "1995891911735783700",
+      "media": [
+        {
+          "width": 2160,
+          "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1995891771000123392/img/i9uuNgBrQMQZ_J4l.jpg",
+          "height": 4096,
+          "type": "video",
+          "media_key": "13_1995891771000123392"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-12-02T15:00:07.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 9,
+        "reply_count": 0,
+        "like_count": 25,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 6562
+      },
+      "text": "This strategic partnership is led by @Token_Logic.\n\nLearn more here: https://t.co/dJybO8QlS2",
+      "conversation_id": "1995870596312563912",
+      "entities": {
+        "mentions": [
+          {
+            "start": 37,
+            "end": 49,
+            "username": "Token_Logic",
+            "id": "1615046383962099713"
+          }
+        ],
+        "urls": [
+          {
+            "start": 69,
+            "end": 92,
+            "url": "https://t.co/dJybO8QlS2",
+            "expanded_url": "https://x.com/Mantle_Official/status/1995866876321349645?s=20",
+            "display_url": "x.com/Mantle_Officia…"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1995870599445721516"
+      ],
+      "id": "1995870599445721516"
+    },
+    {
+      "created_at": "2025-12-02T15:00:06.000Z",
+      "public_metrics": {
+        "retweet_count": 47,
+        "reply_count": 41,
+        "like_count": 482,
+        "quote_count": 8,
+        "bookmark_count": 17,
+        "impression_count": 51268
+      },
+      "text": "In collaboration with @Bybit_Official, Aave is coming to @Mantle_Official.\n\nMantle is a low-cost, EVM-compatible L2 and high-performance distribution layer built for institutional-grade applications and real-world assets. https://t.co/bLgr2sSG3A",
+      "conversation_id": "1995870596312563912",
+      "entities": {
+        "mentions": [
+          {
+            "start": 22,
+            "end": 37,
+            "username": "Bybit_Official",
+            "id": "999947328621395968"
+          },
+          {
+            "start": 57,
+            "end": 73,
+            "username": "Mantle_Official",
+            "id": "1592468786489212928"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 39,
+            "end": 42,
+            "probability": 0.8087,
+            "type": "Other",
+            "normalized_text": "Aave"
+          },
+          {
+            "start": 76,
+            "end": 81,
+            "probability": 0.5577,
+            "type": "Other",
+            "normalized_text": "Mantle"
+          }
+        ],
+        "urls": [
+          {
+            "start": 222,
+            "end": 245,
+            "url": "https://t.co/bLgr2sSG3A",
+            "expanded_url": "https://x.com/aave/status/1995870596312563912/photo/1",
+            "display_url": "pic.x.com/bLgr2sSG3A",
+            "media_key": "3_1995870465026314240"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1995870596312563912"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1995870465026314240"
+        ]
+      },
+      "id": "1995870596312563912",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G7LBnQWWUAAwJ1e.jpg",
+          "width": 4096,
+          "height": 2193,
+          "type": "photo",
+          "media_key": "3_1995870465026314240"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-12-01T17:10:16.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 10,
+        "reply_count": 4,
+        "like_count": 26,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 5477
+      },
+      "text": "Join the waitlist: https://t.co/KXuU32zA69",
+      "conversation_id": "1995540619993686280",
+      "edit_history_tweet_ids": [
+        "1995540965214326860"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 19,
+            "end": 42,
+            "url": "https://t.co/KXuU32zA69",
+            "expanded_url": "https://aave.com/app",
+            "display_url": "aave.com/app",
+            "unwound_url": "https://aave.com/app"
+          }
+        ]
+      },
+      "id": "1995540965214326860"
+    },
+    {
+      "created_at": "2025-12-01T17:08:53.000Z",
+      "public_metrics": {
+        "retweet_count": 23,
+        "reply_count": 49,
+        "like_count": 265,
+        "quote_count": 3,
+        "bookmark_count": 10,
+        "impression_count": 14120
+      },
+      "text": "Aave App will make DeFi mainstream.",
+      "conversation_id": "1995540619993686280",
+      "edit_history_tweet_ids": [
+        "1995540619993686280"
+      ],
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 7,
+            "probability": 0.7144,
+            "type": "Other",
+            "normalized_text": "Aave App"
+          },
+          {
+            "start": 19,
+            "end": 22,
+            "probability": 0.64,
+            "type": "Other",
+            "normalized_text": "DeFi"
+          }
+        ]
+      },
+      "id": "1995540619993686280"
+    },
+    {
+      "created_at": "2025-11-28T16:17:23.000Z",
+      "public_metrics": {
+        "retweet_count": 31,
+        "reply_count": 30,
+        "like_count": 248,
+        "quote_count": 1,
+        "bookmark_count": 7,
+        "impression_count": 18549
+      },
+      "text": "Billions now, trillions later. Just use Aave. https://t.co/ZgtlByu9uC",
+      "conversation_id": "1994440496572223833",
+      "edit_history_tweet_ids": [
+        "1994440496572223833"
+      ],
+      "entities": {
+        "annotations": [
+          {
+            "start": 40,
+            "end": 43,
+            "probability": 0.6458,
+            "type": "Other",
+            "normalized_text": "Aave"
+          }
+        ],
+        "urls": [
+          {
+            "start": 46,
+            "end": 69,
+            "url": "https://t.co/ZgtlByu9uC",
+            "expanded_url": "https://twitter.com/Plasma/status/1994437552665735206",
+            "display_url": "x.com/Plasma/status/…"
+          }
+        ]
+      },
+      "id": "1994440496572223833"
+    },
+    {
+      "created_at": "2025-11-27T14:23:49.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 0,
+        "like_count": 15,
+        "quote_count": 1,
+        "bookmark_count": 2,
+        "impression_count": 6371
+      },
+      "text": "Keep an eye out for the full videos of the panels on YouTube.\n\nhttps://t.co/jMndmu1V15 https://t.co/8GP6DLrwP9",
+      "conversation_id": "1994049162497982936",
+      "edit_history_tweet_ids": [
+        "1994049525271679440"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1994049491478171652",
+          "3_1994049502429536256",
+          "3_1994049511296258059",
+          "3_1994049516262313988"
+        ]
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 53,
+            "end": 59,
+            "probability": 0.9666,
+            "type": "Other",
+            "normalized_text": "YouTube"
+          }
+        ],
+        "urls": [
+          {
+            "start": 63,
+            "end": 86,
+            "url": "https://t.co/jMndmu1V15",
+            "expanded_url": "https://www.youtube.com/@AaveLabs",
+            "display_url": "youtube.com/@AaveLabs",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1994049527926673414/fA2tAoCi?format=jpg&name=orig",
+                "width": 900,
+                "height": 900
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1994049527926673414/fA2tAoCi?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Aave Labs",
+            "description": "The most trusted financial network. Earn, borrow, save, and swap.",
+            "unwound_url": "https://www.youtube.com/@AaveLabs"
+          },
+          {
+            "start": 87,
+            "end": 110,
+            "url": "https://t.co/8GP6DLrwP9",
+            "expanded_url": "https://x.com/aave/status/1994049525271679440/photo/1",
+            "display_url": "pic.x.com/8GP6DLrwP9",
+            "media_key": "3_1994049491478171652"
+          },
+          {
+            "start": 87,
+            "end": 110,
+            "url": "https://t.co/8GP6DLrwP9",
+            "expanded_url": "https://x.com/aave/status/1994049525271679440/photo/1",
+            "display_url": "pic.x.com/8GP6DLrwP9",
+            "media_key": "3_1994049502429536256"
+          },
+          {
+            "start": 87,
+            "end": 110,
+            "url": "https://t.co/8GP6DLrwP9",
+            "expanded_url": "https://x.com/aave/status/1994049525271679440/photo/1",
+            "display_url": "pic.x.com/8GP6DLrwP9",
+            "media_key": "3_1994049511296258059"
+          },
+          {
+            "start": 87,
+            "end": 110,
+            "url": "https://t.co/8GP6DLrwP9",
+            "expanded_url": "https://x.com/aave/status/1994049525271679440/photo/1",
+            "display_url": "pic.x.com/8GP6DLrwP9",
+            "media_key": "3_1994049516262313988"
+          }
+        ]
+      },
+      "id": "1994049525271679440",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G6xJcpQa0AQ_BFt.jpg",
+          "width": 3529,
+          "height": 5293,
+          "type": "photo",
+          "media_key": "3_1994049491478171652"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/G6xJdSDbYAAXMtF.jpg",
+          "width": 3403,
+          "height": 5104,
+          "type": "photo",
+          "media_key": "3_1994049502429536256"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/G6xJdzFa0As6SpG.jpg",
+          "width": 860,
+          "height": 1212,
+          "type": "photo",
+          "media_key": "3_1994049511296258059"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/G6xJeFla0AQ3N6D.jpg",
+          "width": 3370,
+          "height": 5055,
+          "type": "photo",
+          "media_key": "3_1994049516262313988"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-11-27T14:23:37.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 6,
+        "reply_count": 2,
+        "like_count": 23,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 6131
+      },
+      "text": "Thanks again to everyone who participated and made DeFi Day del Sur a day to remember. https://t.co/GFv8ZNJ1tz",
+      "conversation_id": "1994049162497982936",
+      "edit_history_tweet_ids": [
+        "1994049475149705427"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1994049432745332740",
+          "3_1994049454991921152",
+          "3_1994049466278793217"
+        ]
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 51,
+            "end": 66,
+            "probability": 0.8449,
+            "type": "Other",
+            "normalized_text": "DeFi Day del Sur"
+          }
+        ],
+        "urls": [
+          {
+            "start": 87,
+            "end": 110,
+            "url": "https://t.co/GFv8ZNJ1tz",
+            "expanded_url": "https://x.com/aave/status/1994049475149705427/photo/1",
+            "display_url": "pic.x.com/GFv8ZNJ1tz",
+            "media_key": "3_1994049432745332740"
+          },
+          {
+            "start": 87,
+            "end": 110,
+            "url": "https://t.co/GFv8ZNJ1tz",
+            "expanded_url": "https://x.com/aave/status/1994049475149705427/photo/1",
+            "display_url": "pic.x.com/GFv8ZNJ1tz",
+            "media_key": "3_1994049454991921152"
+          },
+          {
+            "start": 87,
+            "end": 110,
+            "url": "https://t.co/GFv8ZNJ1tz",
+            "expanded_url": "https://x.com/aave/status/1994049475149705427/photo/1",
+            "display_url": "pic.x.com/GFv8ZNJ1tz",
+            "media_key": "3_1994049466278793217"
+          }
+        ]
+      },
+      "id": "1994049475149705427",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G6xJZOda0AQgUaw.jpg",
+          "width": 5259,
+          "height": 3506,
+          "type": "photo",
+          "media_key": "3_1994049432745332740"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/G6xJahVa0AASz_H.jpg",
+          "width": 5230,
+          "height": 3487,
+          "type": "photo",
+          "media_key": "3_1994049454991921152"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/G6xJbLYa0AEpTDg.jpg",
+          "width": 5222,
+          "height": 3481,
+          "type": "photo",
+          "media_key": "3_1994049466278793217"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-11-27T14:23:23.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 6,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 1102
+      },
+      "text": "In closing, we covered one of the hottest topics, stablecoins, featuring @jacqmelinek from @TokenRelations, William Reilly from @chainlink, @claberus from @kpk_io, Mark Phillips from @grovedotfinance, and @nlevine19 from @Visa. https://t.co/nI3CibzqnJ",
+      "conversation_id": "1994049162497982936",
+      "entities": {
+        "mentions": [
+          {
+            "start": 73,
+            "end": 85,
+            "username": "jacqmelinek",
+            "id": "1044207764212518912"
+          },
+          {
+            "start": 91,
+            "end": 106,
+            "username": "TokenRelations",
+            "id": "1770276521011503104"
+          },
+          {
+            "start": 128,
+            "end": 138,
+            "username": "chainlink",
+            "id": "1530530365"
+          },
+          {
+            "start": 140,
+            "end": 149,
+            "username": "claberus",
+            "id": "3732687797"
+          },
+          {
+            "start": 155,
+            "end": 162,
+            "username": "kpk_io",
+            "id": "1429035588234133505"
+          },
+          {
+            "start": 183,
+            "end": 199,
+            "username": "grovedotfinance",
+            "id": "1928133821872099331"
+          },
+          {
+            "start": 205,
+            "end": 215,
+            "username": "nlevine19",
+            "id": "1073663938489925633"
+          },
+          {
+            "start": 221,
+            "end": 226,
+            "username": "Visa",
+            "id": "551373363"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 108,
+            "end": 121,
+            "probability": 0.8902,
+            "type": "Person",
+            "normalized_text": "William Reilly"
+          },
+          {
+            "start": 164,
+            "end": 176,
+            "probability": 0.9292,
+            "type": "Person",
+            "normalized_text": "Mark Phillips"
+          }
+        ],
+        "urls": [
+          {
+            "start": 228,
+            "end": 251,
+            "url": "https://t.co/nI3CibzqnJ",
+            "expanded_url": "https://x.com/aave/status/1994049415896813886/photo/1",
+            "display_url": "pic.x.com/nI3CibzqnJ",
+            "media_key": "3_1994049407038443521"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1994049415896813886"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1994049407038443521"
+        ]
+      },
+      "id": "1994049415896813886",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G6xJXusa0AEWse-.jpg",
+          "width": 4911,
+          "height": 3274,
+          "type": "photo",
+          "media_key": "3_1994049407038443521"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-11-27T14:23:14.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 6,
+        "reply_count": 1,
+        "like_count": 16,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 3018
+      },
+      "text": "With Buenos Aires becoming the crypto capital of LATAM, we learned about regional adoption with @CamiRusso from @DefiantNews, @mbeaudroit from @belo_app, @lemoncheli from @lemonapp_ar, @sserrano44 from @RipioApp, and @fernandezdiego from @sovraio. https://t.co/1ruLkXE2kR",
+      "conversation_id": "1994049162497982936",
+      "entities": {
+        "mentions": [
+          {
+            "start": 96,
+            "end": 106,
+            "username": "CamiRusso",
+            "id": "421271885"
+          },
+          {
+            "start": 112,
+            "end": 124,
+            "username": "DefiantNews",
+            "id": "1237544865216507906"
+          },
+          {
+            "start": 126,
+            "end": 137,
+            "username": "mbeaudroit",
+            "id": "26553539"
+          },
+          {
+            "start": 143,
+            "end": 152,
+            "username": "belo_app",
+            "id": "1263942652397051904"
+          },
+          {
+            "start": 154,
+            "end": 165,
+            "username": "lemoncheli",
+            "id": "1132343720"
+          },
+          {
+            "start": 171,
+            "end": 183,
+            "username": "lemonapp_ar",
+            "id": "1233466414582915076"
+          },
+          {
+            "start": 185,
+            "end": 196,
+            "username": "sserrano44",
+            "id": "14789602"
+          },
+          {
+            "start": 202,
+            "end": 211,
+            "username": "RipioApp",
+            "id": "2490604796"
+          },
+          {
+            "start": 217,
+            "end": 232,
+            "username": "fernandezdiego",
+            "id": "19602941"
+          },
+          {
+            "start": 238,
+            "end": 246,
+            "username": "sovraio",
+            "id": "1831413863536836609"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 5,
+            "end": 16,
+            "probability": 0.9901,
+            "type": "Place",
+            "normalized_text": "Buenos Aires"
+          },
+          {
+            "start": 49,
+            "end": 53,
+            "probability": 0.542,
+            "type": "Place",
+            "normalized_text": "LATAM"
+          }
+        ],
+        "urls": [
+          {
+            "start": 248,
+            "end": 271,
+            "url": "https://t.co/1ruLkXE2kR",
+            "expanded_url": "https://x.com/aave/status/1994049381327360267/photo/1",
+            "display_url": "pic.x.com/1ruLkXE2kR",
+            "media_key": "3_1994049371164569600"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1994049381327360267"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1994049371164569600"
+        ]
+      },
+      "id": "1994049381327360267",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G6xJVpDa8AAdH9y.jpg",
+          "width": 5446,
+          "height": 3631,
+          "type": "photo",
+          "media_key": "3_1994049371164569600"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-11-27T14:23:05.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 1281
+      },
+      "text": "Then we explored the widely discussed topic of Ethereum alignment with @amandacassatt from @serotonin_hq, @tkstanczak from @ethereumfndn, @sgoldfed from @arbitrum, and @StaniKulechov, founder of @aave. https://t.co/QE958tq6fl",
+      "conversation_id": "1994049162497982936",
+      "entities": {
+        "mentions": [
+          {
+            "start": 71,
+            "end": 85,
+            "username": "amandacassatt",
+            "id": "385758190"
+          },
+          {
+            "start": 91,
+            "end": 104,
+            "username": "serotonin_hq",
+            "id": "1468951598001016835"
+          },
+          {
+            "start": 106,
+            "end": 117,
+            "username": "tkstanczak",
+            "id": "2329730512"
+          },
+          {
+            "start": 123,
+            "end": 136,
+            "username": "ethereumfndn",
+            "id": "1529875152460193794"
+          },
+          {
+            "start": 138,
+            "end": 147,
+            "username": "sgoldfed",
+            "id": "915609529"
+          },
+          {
+            "start": 153,
+            "end": 162,
+            "username": "arbitrum",
+            "id": "1332033418088099843"
+          },
+          {
+            "start": 168,
+            "end": 182,
+            "username": "StaniKulechov",
+            "id": "952921795316912133"
+          },
+          {
+            "start": 195,
+            "end": 200,
+            "username": "aave",
+            "id": "867100084248469505"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 47,
+            "end": 54,
+            "probability": 0.7296,
+            "type": "Other",
+            "normalized_text": "Ethereum"
+          }
+        ],
+        "urls": [
+          {
+            "start": 202,
+            "end": 225,
+            "url": "https://t.co/QE958tq6fl",
+            "expanded_url": "https://x.com/aave/status/1994049342655877621/photo/1",
+            "display_url": "pic.x.com/QE958tq6fl",
+            "media_key": "3_1994049313996197890"
+          },
+          {
+            "start": 202,
+            "end": 225,
+            "url": "https://t.co/QE958tq6fl",
+            "expanded_url": "https://x.com/aave/status/1994049342655877621/photo/1",
+            "display_url": "pic.x.com/QE958tq6fl",
+            "media_key": "3_1994049335341010946"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1994049342655877621"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1994049313996197890",
+          "3_1994049335341010946"
+        ]
+      },
+      "id": "1994049342655877621",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G6xJSUFa0AIoMWh.jpg",
+          "width": 5425,
+          "height": 3617,
+          "type": "photo",
+          "media_key": "3_1994049313996197890"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/G6xJTjma0AIALVL.jpg",
+          "width": 4765,
+          "height": 3177,
+          "type": "photo",
+          "media_key": "3_1994049335341010946"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-11-27T14:22:52.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 8,
+        "quote_count": 1,
+        "bookmark_count": 1,
+        "impression_count": 5070
+      },
+      "text": "We also talked about powering commerce through crypto rails with @debsoon from @privy_io, Massimo Cervesato from @Mastercard, @DeclanFox14 from @LineaBuild, @kylejenke from @Optimism, @MattSchmenk from @avax, and @Solomontesfaye_ from @Aptos. https://t.co/d98JHMPZrv",
+      "conversation_id": "1994049162497982936",
+      "entities": {
+        "mentions": [
+          {
+            "start": 65,
+            "end": 73,
+            "username": "debsoon",
+            "id": "1398667576675246081"
+          },
+          {
+            "start": 79,
+            "end": 88,
+            "username": "privy_io",
+            "id": "1468690939807821826"
+          },
+          {
+            "start": 113,
+            "end": 124,
+            "username": "Mastercard",
+            "id": "75014376"
+          },
+          {
+            "start": 126,
+            "end": 138,
+            "username": "DeclanFox14",
+            "id": "1006476151831662594"
+          },
+          {
+            "start": 144,
+            "end": 155,
+            "username": "LineaBuild",
+            "id": "1636106911085912069"
+          },
+          {
+            "start": 157,
+            "end": 167,
+            "username": "kylejenke",
+            "id": "315567885"
+          },
+          {
+            "start": 173,
+            "end": 182,
+            "username": "Optimism",
+            "id": "1044836083530452992"
+          },
+          {
+            "start": 184,
+            "end": 196,
+            "username": "MattSchmenk",
+            "id": "448621436"
+          },
+          {
+            "start": 202,
+            "end": 207,
+            "username": "avax",
+            "id": "1055894724245155841"
+          },
+          {
+            "start": 213,
+            "end": 229,
+            "username": "SolomonTesfaye_",
+            "id": "1433217674759348226"
+          },
+          {
+            "start": 235,
+            "end": 241,
+            "username": "Aptos",
+            "id": "1491526425580474368"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 90,
+            "end": 106,
+            "probability": 0.7659,
+            "type": "Other",
+            "normalized_text": "Massimo Cervesato"
+          }
+        ],
+        "urls": [
+          {
+            "start": 243,
+            "end": 266,
+            "url": "https://t.co/d98JHMPZrv",
+            "expanded_url": "https://x.com/aave/status/1994049285860806688/photo/1",
+            "display_url": "pic.x.com/d98JHMPZrv",
+            "media_key": "3_1994049263152852993"
+          },
+          {
+            "start": 243,
+            "end": 266,
+            "url": "https://t.co/d98JHMPZrv",
+            "expanded_url": "https://x.com/aave/status/1994049285860806688/photo/1",
+            "display_url": "pic.x.com/d98JHMPZrv",
+            "media_key": "3_1994049276146798592"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1994049285860806688"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1994049263152852993",
+          "3_1994049276146798592"
+        ]
+      },
+      "id": "1994049285860806688",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G6xJPWra8AEOCHv.jpg",
+          "width": 5153,
+          "height": 3435,
+          "type": "photo",
+          "media_key": "3_1994049263152852993"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/G6xJQHFa0AAvVoc.jpg",
+          "width": 4946,
+          "height": 3297,
+          "type": "photo",
+          "media_key": "3_1994049276146798592"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-11-27T14:22:40.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 1,
+        "like_count": 11,
+        "quote_count": 1,
+        "bookmark_count": 1,
+        "impression_count": 6268
+      },
+      "text": "Next, we discussed RWAs, from pilot to scale, with @defisebs from Aave Labs, @Mona_El_Isa from @avantgardefi, @carlosdomingo from @Securitize, @TFGolden from @BaillieGifford, and Alexandre Elkrief from @upshift_fi. https://t.co/hEcvwbleQk",
+      "conversation_id": "1994049162497982936",
+      "entities": {
+        "mentions": [
+          {
+            "start": 51,
+            "end": 60,
+            "username": "defisebs",
+            "id": "22332380"
+          },
+          {
+            "start": 77,
+            "end": 89,
+            "username": "Mona_El_Isa",
+            "id": "275508757"
+          },
+          {
+            "start": 95,
+            "end": 108,
+            "username": "avantgardefi",
+            "id": "1131899849941626880"
+          },
+          {
+            "start": 110,
+            "end": 124,
+            "username": "carlosdomingo",
+            "id": "8280592"
+          },
+          {
+            "start": 130,
+            "end": 141,
+            "username": "Securitize",
+            "id": "963568407118462976"
+          },
+          {
+            "start": 143,
+            "end": 152,
+            "username": "TFGolden",
+            "id": "456068321"
+          },
+          {
+            "start": 158,
+            "end": 173,
+            "username": "BaillieGifford",
+            "id": "296205027"
+          },
+          {
+            "start": 202,
+            "end": 213,
+            "username": "upshift_fi",
+            "id": "1833517452224876544"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 19,
+            "end": 22,
+            "probability": 0.6149,
+            "type": "Other",
+            "normalized_text": "RWAs"
+          },
+          {
+            "start": 66,
+            "end": 74,
+            "probability": 0.7939,
+            "type": "Other",
+            "normalized_text": "Aave Labs"
+          },
+          {
+            "start": 179,
+            "end": 195,
+            "probability": 0.6261,
+            "type": "Person",
+            "normalized_text": "Alexandre Elkrief"
+          }
+        ],
+        "urls": [
+          {
+            "start": 215,
+            "end": 238,
+            "url": "https://t.co/hEcvwbleQk",
+            "expanded_url": "https://x.com/aave/status/1994049237043327431/photo/1",
+            "display_url": "pic.x.com/hEcvwbleQk",
+            "media_key": "3_1994049227077611520"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1994049237043327431"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1994049227077611520"
+        ]
+      },
+      "id": "1994049237043327431",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G6xJNQSacAAqRYq.jpg",
+          "width": 5302,
+          "height": 3535,
+          "type": "photo",
+          "media_key": "3_1994049227077611520"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-11-27T14:22:31.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 3,
+        "like_count": 20,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 3853
+      },
+      "text": "@1inch @Uniswap @CoWSwap @Optimism @chaoslabs @avax @LineaBuild The first panel of the day covered some of the most interesting breakthroughs in DeFi with @amandacassatt from @serotonin_hq, Drew Turchin from @Uniswap, @k06a from @1inch, @AnnaMSGeorge from @CoWSwap, @willwarren from @0xProject, and @miguelmtzinf from Aave Labs. https://t.co/rfJEKvb05I",
+      "conversation_id": "1994049162497982936",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 6,
+            "username": "1inch",
+            "id": "1137038394503114753"
+          },
+          {
+            "start": 7,
+            "end": 15,
+            "username": "Uniswap",
+            "id": "984188226826010624"
+          },
+          {
+            "start": 16,
+            "end": 24,
+            "username": "CoWSwap",
+            "id": "1383143419128782848"
+          },
+          {
+            "start": 25,
+            "end": 34,
+            "username": "Optimism",
+            "id": "1044836083530452992"
+          },
+          {
+            "start": 35,
+            "end": 45,
+            "username": "chaoslabs",
+            "id": "1452902430690136064"
+          },
+          {
+            "start": 46,
+            "end": 51,
+            "username": "avax",
+            "id": "1055894724245155841"
+          },
+          {
+            "start": 52,
+            "end": 63,
+            "username": "LineaBuild",
+            "id": "1636106911085912069"
+          },
+          {
+            "start": 155,
+            "end": 169,
+            "username": "amandacassatt",
+            "id": "385758190"
+          },
+          {
+            "start": 175,
+            "end": 188,
+            "username": "serotonin_hq",
+            "id": "1468951598001016835"
+          },
+          {
+            "start": 208,
+            "end": 216,
+            "username": "Uniswap",
+            "id": "984188226826010624"
+          },
+          {
+            "start": 218,
+            "end": 223,
+            "username": "k06a",
+            "id": "20413564"
+          },
+          {
+            "start": 229,
+            "end": 235,
+            "username": "1inch",
+            "id": "1137038394503114753"
+          },
+          {
+            "start": 237,
+            "end": 250,
+            "username": "AnnaMSGeorge",
+            "id": "2368734084"
+          },
+          {
+            "start": 256,
+            "end": 264,
+            "username": "CoWSwap",
+            "id": "1383143419128782848"
+          },
+          {
+            "start": 266,
+            "end": 277,
+            "username": "willwarren",
+            "id": "702957747227095040"
+          },
+          {
+            "start": 283,
+            "end": 293,
+            "username": "0xProject",
+            "id": "826699259441328128"
+          },
+          {
+            "start": 299,
+            "end": 312,
+            "username": "miguelmtzinf",
+            "id": "1052831337218887680"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 145,
+            "end": 148,
+            "probability": 0.6654,
+            "type": "Other",
+            "normalized_text": "DeFi"
+          },
+          {
+            "start": 190,
+            "end": 201,
+            "probability": 0.5636,
+            "type": "Other",
+            "normalized_text": "Drew Turchin"
+          },
+          {
+            "start": 318,
+            "end": 326,
+            "probability": 0.7945,
+            "type": "Other",
+            "normalized_text": "Aave Labs"
+          }
+        ],
+        "urls": [
+          {
+            "start": 329,
+            "end": 352,
+            "url": "https://t.co/rfJEKvb05I",
+            "expanded_url": "https://x.com/aave/status/1994049200540275207/photo/1",
+            "display_url": "pic.x.com/rfJEKvb05I",
+            "media_key": "3_1994049190520082433"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1994049200540275207"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1994049190520082433"
+        ]
+      },
+      "id": "1994049200540275207",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G6xJLIGa0AEGRwc.jpg",
+          "width": 5364,
+          "height": 3576,
+          "type": "photo",
+          "media_key": "3_1994049190520082433"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-11-27T14:22:22.000Z",
+      "public_metrics": {
+        "retweet_count": 30,
+        "reply_count": 25,
+        "like_count": 206,
+        "quote_count": 6,
+        "bookmark_count": 7,
+        "impression_count": 57649
+      },
+      "text": "DeFi Day del Sur was a huge success, with great programming and even better vibes. Thanks to everyone who made it out.\n\nHere’s a look back at the panels from the event 👻 https://t.co/B4wHUGhbN4",
+      "conversation_id": "1994049162497982936",
+      "edit_history_tweet_ids": [
+        "1994049162497982936"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1994049111373565953",
+          "3_1994049120429068293",
+          "3_1994049131267211264",
+          "3_1994049151429169153"
+        ]
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 15,
+            "probability": 0.8317,
+            "type": "Other",
+            "normalized_text": "DeFi Day del Sur"
+          }
+        ],
+        "urls": [
+          {
+            "start": 170,
+            "end": 193,
+            "url": "https://t.co/B4wHUGhbN4",
+            "expanded_url": "https://x.com/aave/status/1994049162497982936/photo/1",
+            "display_url": "pic.x.com/B4wHUGhbN4",
+            "media_key": "3_1994049111373565953"
+          },
+          {
+            "start": 170,
+            "end": 193,
+            "url": "https://t.co/B4wHUGhbN4",
+            "expanded_url": "https://x.com/aave/status/1994049162497982936/photo/1",
+            "display_url": "pic.x.com/B4wHUGhbN4",
+            "media_key": "3_1994049120429068293"
+          },
+          {
+            "start": 170,
+            "end": 193,
+            "url": "https://t.co/B4wHUGhbN4",
+            "expanded_url": "https://x.com/aave/status/1994049162497982936/photo/1",
+            "display_url": "pic.x.com/B4wHUGhbN4",
+            "media_key": "3_1994049131267211264"
+          },
+          {
+            "start": 170,
+            "end": 193,
+            "url": "https://t.co/B4wHUGhbN4",
+            "expanded_url": "https://x.com/aave/status/1994049162497982936/photo/1",
+            "display_url": "pic.x.com/B4wHUGhbN4",
+            "media_key": "3_1994049151429169153"
+          }
+        ]
+      },
+      "id": "1994049162497982936",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G6xJGhQa0AEMoX5.jpg",
+          "width": 4967,
+          "height": 3311,
+          "type": "photo",
+          "media_key": "3_1994049111373565953"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/G6xJHC_a0AUekeS.jpg",
+          "width": 5369,
+          "height": 3579,
+          "type": "photo",
+          "media_key": "3_1994049120429068293"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/G6xJHrXbwAAoN1J.jpg",
+          "width": 4721,
+          "height": 3147,
+          "type": "photo",
+          "media_key": "3_1994049131267211264"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/G6xJI2ea0AEPuzG.jpg",
+          "width": 5353,
+          "height": 3569,
+          "type": "photo",
+          "media_key": "3_1994049151429169153"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-11-26T19:08:11.000Z",
+      "public_metrics": {
+        "retweet_count": 61,
+        "reply_count": 52,
+        "like_count": 584,
+        "quote_count": 26,
+        "bookmark_count": 23,
+        "impression_count": 96728
+      },
+      "text": "Aave on @Aptos crossed $50 million deposits. https://t.co/YysP1wC5in",
+      "conversation_id": "1993758703418241190",
+      "entities": {
+        "mentions": [
+          {
+            "start": 8,
+            "end": 14,
+            "username": "Aptos",
+            "id": "1491526425580474368"
+          }
+        ],
+        "urls": [
+          {
+            "start": 45,
+            "end": 68,
+            "url": "https://t.co/YysP1wC5in",
+            "expanded_url": "https://x.com/aave/status/1993758703418241190/video/1",
+            "display_url": "pic.x.com/YysP1wC5in",
+            "media_key": "13_1993758501412163584"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1993758703418241190"
+      ],
+      "attachments": {
+        "media_keys": [
+          "13_1993758501412163584"
+        ]
+      },
+      "id": "1993758703418241190",
+      "media": [
+        {
+          "width": 1920,
+          "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1993758501412163584/img/jMNdoPhrjsn_1x9F.jpg",
+          "height": 1080,
+          "type": "video",
+          "media_key": "13_1993758501412163584"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-11-25T19:54:07.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 4,
+        "like_count": 26,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 4715
+      },
+      "text": "Thanks to everyone who showed up and supported Aave in Buenos Aires.\n\nSee you all at the next one! https://t.co/OqyA0FvVrS",
+      "conversation_id": "1993407637682373094",
+      "edit_history_tweet_ids": [
+        "1993407873469345941"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1993407825067098121",
+          "3_1993407848181903360",
+          "3_1993407862518038529"
+        ]
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 47,
+            "end": 50,
+            "probability": 0.46,
+            "type": "Other",
+            "normalized_text": "Aave"
+          },
+          {
+            "start": 55,
+            "end": 66,
+            "probability": 0.9857,
+            "type": "Place",
+            "normalized_text": "Buenos Aires"
+          }
+        ],
+        "urls": [
+          {
+            "start": 99,
+            "end": 122,
+            "url": "https://t.co/OqyA0FvVrS",
+            "expanded_url": "https://x.com/aave/status/1993407873469345941/photo/1",
+            "display_url": "pic.x.com/OqyA0FvVrS",
+            "media_key": "3_1993407825067098121"
+          },
+          {
+            "start": 99,
+            "end": 122,
+            "url": "https://t.co/OqyA0FvVrS",
+            "expanded_url": "https://x.com/aave/status/1993407873469345941/photo/1",
+            "display_url": "pic.x.com/OqyA0FvVrS",
+            "media_key": "3_1993407848181903360"
+          },
+          {
+            "start": 99,
+            "end": 122,
+            "url": "https://t.co/OqyA0FvVrS",
+            "expanded_url": "https://x.com/aave/status/1993407873469345941/photo/1",
+            "display_url": "pic.x.com/OqyA0FvVrS",
+            "media_key": "3_1993407862518038529"
+          }
+        ]
+      },
+      "id": "1993407873469345941",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G6oB2vmbwAkh4Yv.jpg",
+          "width": 3458,
+          "height": 5187,
+          "type": "photo",
+          "media_key": "3_1993407825067098121"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/G6oB4FtbsAAP1Mc.jpg",
+          "width": 5472,
+          "height": 3648,
+          "type": "photo",
+          "media_key": "3_1993407848181903360"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/G6oB47HbwAE2VRu.jpg",
+          "width": 5472,
+          "height": 3648,
+          "type": "photo",
+          "media_key": "3_1993407862518038529"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-11-25T19:53:51.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 4,
+        "like_count": 32,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 5153
+      },
+      "text": "After we announced Aave App, @0xMari0 took the stage to introduce it to the audience at Devconnect.\n\nHe covered why Aave Labs built it, the problem it solves, and gave a sneak peek of its features. https://t.co/y7f4ePCg5h",
+      "conversation_id": "1993407637682373094",
+      "entities": {
+        "mentions": [
+          {
+            "start": 29,
+            "end": 37,
+            "username": "0xMari0",
+            "id": "862032400393678848"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 19,
+            "end": 26,
+            "probability": 0.929,
+            "type": "Other",
+            "normalized_text": "Aave App"
+          },
+          {
+            "start": 88,
+            "end": 97,
+            "probability": 0.7902,
+            "type": "Other",
+            "normalized_text": "Devconnect"
+          },
+          {
+            "start": 116,
+            "end": 124,
+            "probability": 0.6653,
+            "type": "Other",
+            "normalized_text": "Aave Labs"
+          }
+        ],
+        "urls": [
+          {
+            "start": 198,
+            "end": 221,
+            "url": "https://t.co/y7f4ePCg5h",
+            "expanded_url": "https://x.com/aave/status/1993407807908200458/photo/1",
+            "display_url": "pic.x.com/y7f4ePCg5h",
+            "media_key": "3_1993407785862897664"
+          },
+          {
+            "start": 198,
+            "end": 221,
+            "url": "https://t.co/y7f4ePCg5h",
+            "expanded_url": "https://x.com/aave/status/1993407807908200458/photo/1",
+            "display_url": "pic.x.com/y7f4ePCg5h",
+            "media_key": "3_1993407799754375168"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1993407807908200458"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1993407785862897664",
+          "3_1993407799754375168"
+        ]
+      },
+      "id": "1993407807908200458",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G6oB0djbIAAcHc7.jpg",
+          "width": 1264,
+          "height": 848,
+          "type": "photo",
+          "media_key": "3_1993407785862897664"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/G6oB1RTaQAA8i2V.jpg",
+          "width": 5165,
+          "height": 3443,
+          "type": "photo",
+          "media_key": "3_1993407799754375168"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-11-25T19:53:42.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 11,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 735
+      },
+      "text": "Throughout the week, @StaniKulechov gave several talks on the main stage covering credit as the engine behind civilization, stablecoins, the future of DeFi, and more. https://t.co/jVRgXjrV3I",
+      "conversation_id": "1993407637682373094",
+      "entities": {
+        "mentions": [
+          {
+            "start": 21,
+            "end": 35,
+            "username": "StaniKulechov",
+            "id": "952921795316912133"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 151,
+            "end": 154,
+            "probability": 0.5182,
+            "type": "Other",
+            "normalized_text": "DeFi"
+          }
+        ],
+        "urls": [
+          {
+            "start": 167,
+            "end": 190,
+            "url": "https://t.co/jVRgXjrV3I",
+            "expanded_url": "https://x.com/aave/status/1993407768121033190/photo/1",
+            "display_url": "pic.x.com/jVRgXjrV3I",
+            "media_key": "3_1993407726760972288"
+          },
+          {
+            "start": 167,
+            "end": 190,
+            "url": "https://t.co/jVRgXjrV3I",
+            "expanded_url": "https://x.com/aave/status/1993407768121033190/photo/1",
+            "display_url": "pic.x.com/jVRgXjrV3I",
+            "media_key": "3_1993407738844790787"
+          },
+          {
+            "start": 167,
+            "end": 190,
+            "url": "https://t.co/jVRgXjrV3I",
+            "expanded_url": "https://x.com/aave/status/1993407768121033190/photo/1",
+            "display_url": "pic.x.com/jVRgXjrV3I",
+            "media_key": "3_1993407759321341952"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1993407768121033190"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1993407726760972288",
+          "3_1993407738844790787",
+          "3_1993407759321341952"
+        ]
+      },
+      "id": "1993407768121033190",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G6oBxBYbUAA5gYQ.jpg",
+          "width": 5449,
+          "height": 3633,
+          "type": "photo",
+          "media_key": "3_1993407726760972288"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/G6oBxuZbwAMJLUP.jpg",
+          "width": 4937,
+          "height": 3291,
+          "type": "photo",
+          "media_key": "3_1993407738844790787"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/G6oBy6rbIAAbtDV.jpg",
+          "width": 4568,
+          "height": 3045,
+          "type": "photo",
+          "media_key": "3_1993407759321341952"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-11-25T19:53:28.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 15,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 855
+      },
+      "text": "@EFDevcon First, a huge shout out to everyone who visited the Aave booth during @EFDevcon.\n\nThe Aave community is bigger than ever, and it was fun meeting the users, builders, and partners ushering in the next era of finance. https://t.co/ZF67jDokQ6",
+      "conversation_id": "1993407637682373094",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 9,
+            "username": "EFDevcon",
+            "id": "1013526003015184385"
+          },
+          {
+            "start": 80,
+            "end": 89,
+            "username": "EFDevcon",
+            "id": "1013526003015184385"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 62,
+            "end": 65,
+            "probability": 0.6281,
+            "type": "Other",
+            "normalized_text": "Aave"
+          },
+          {
+            "start": 96,
+            "end": 99,
+            "probability": 0.5689,
+            "type": "Other",
+            "normalized_text": "Aave"
+          }
+        ],
+        "urls": [
+          {
+            "start": 226,
+            "end": 249,
+            "url": "https://t.co/ZF67jDokQ6",
+            "expanded_url": "https://x.com/aave/status/1993407709212000728/photo/1",
+            "display_url": "pic.x.com/ZF67jDokQ6",
+            "media_key": "3_1993407663364096000"
+          },
+          {
+            "start": 226,
+            "end": 249,
+            "url": "https://t.co/ZF67jDokQ6",
+            "expanded_url": "https://x.com/aave/status/1993407709212000728/photo/1",
+            "display_url": "pic.x.com/ZF67jDokQ6",
+            "media_key": "3_1993407681659543552"
+          },
+          {
+            "start": 226,
+            "end": 249,
+            "url": "https://t.co/ZF67jDokQ6",
+            "expanded_url": "https://x.com/aave/status/1993407709212000728/photo/1",
+            "display_url": "pic.x.com/ZF67jDokQ6",
+            "media_key": "3_1993407700206862340"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1993407709212000728"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1993407663364096000",
+          "3_1993407681659543552",
+          "3_1993407700206862340"
+        ]
+      },
+      "id": "1993407709212000728",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G6oBtVNbwAAekL-.jpg",
+          "width": 3532,
+          "height": 5298,
+          "type": "photo",
+          "media_key": "3_1993407663364096000"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/G6oBuZXaIAAv4_i.jpg",
+          "width": 5246,
+          "height": 3497,
+          "type": "photo",
+          "media_key": "3_1993407681659543552"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/G6oBvedbwAQloIt.jpg",
+          "width": 5020,
+          "height": 3347,
+          "type": "photo",
+          "media_key": "3_1993407700206862340"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-11-25T19:53:11.000Z",
+      "public_metrics": {
+        "retweet_count": 23,
+        "reply_count": 32,
+        "like_count": 282,
+        "quote_count": 5,
+        "bookmark_count": 4,
+        "impression_count": 40567
+      },
+      "text": "It was a historic week for Aave in Buenos Aires 👻\n\nWith friends from around the world, we introduced Aave App, launched V4 testnet, and deployed a preview of Aave Pro. https://t.co/JdiX4mAj6L",
+      "conversation_id": "1993407637682373094",
+      "edit_history_tweet_ids": [
+        "1993407637682373094"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1993407596272009218",
+          "3_1993407604954103808",
+          "3_1993407627452395520"
+        ]
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 27,
+            "end": 30,
+            "probability": 0.693,
+            "type": "Other",
+            "normalized_text": "Aave"
+          },
+          {
+            "start": 35,
+            "end": 46,
+            "probability": 0.9759,
+            "type": "Place",
+            "normalized_text": "Buenos Aires"
+          },
+          {
+            "start": 101,
+            "end": 108,
+            "probability": 0.9072,
+            "type": "Other",
+            "normalized_text": "Aave App"
+          },
+          {
+            "start": 120,
+            "end": 121,
+            "probability": 0.7084,
+            "type": "Other",
+            "normalized_text": "V4"
+          },
+          {
+            "start": 158,
+            "end": 165,
+            "probability": 0.8514,
+            "type": "Other",
+            "normalized_text": "Aave Pro"
+          }
+        ],
+        "urls": [
+          {
+            "start": 168,
+            "end": 191,
+            "url": "https://t.co/JdiX4mAj6L",
+            "expanded_url": "https://x.com/aave/status/1993407637682373094/photo/1",
+            "display_url": "pic.x.com/JdiX4mAj6L",
+            "media_key": "3_1993407596272009218"
+          },
+          {
+            "start": 168,
+            "end": 191,
+            "url": "https://t.co/JdiX4mAj6L",
+            "expanded_url": "https://x.com/aave/status/1993407637682373094/photo/1",
+            "display_url": "pic.x.com/JdiX4mAj6L",
+            "media_key": "3_1993407604954103808"
+          },
+          {
+            "start": 168,
+            "end": 191,
+            "url": "https://t.co/JdiX4mAj6L",
+            "expanded_url": "https://x.com/aave/status/1993407637682373094/photo/1",
+            "display_url": "pic.x.com/JdiX4mAj6L",
+            "media_key": "3_1993407627452395520"
+          }
+        ]
+      },
+      "id": "1993407637682373094",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G6oBpbRbwAIFwRI.jpg",
+          "width": 4502,
+          "height": 3001,
+          "type": "photo",
+          "media_key": "3_1993407596272009218"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/G6oBp7naAAAfN85.jpg",
+          "width": 5371,
+          "height": 3581,
+          "type": "photo",
+          "media_key": "3_1993407604954103808"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/G6oBrPbasAA3FnJ.jpg",
+          "width": 5041,
+          "height": 3361,
+          "type": "photo",
+          "media_key": "3_1993407627452395520"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-11-25T16:46:46.000Z",
+      "public_metrics": {
+        "retweet_count": 164,
+        "reply_count": 276,
+        "like_count": 1805,
+        "quote_count": 62,
+        "bookmark_count": 22,
+        "impression_count": 113436
+      },
+      "text": "DeFi will win.",
+      "conversation_id": "1993360724194636112",
+      "edit_history_tweet_ids": [
+        "1993360724194636112"
+      ],
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 3,
+            "probability": 0.3669,
+            "type": "Other",
+            "normalized_text": "DeFi"
+          }
+        ]
+      },
+      "id": "1993360724194636112"
+    },
+    {
+      "created_at": "2025-11-23T17:25:13.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 4,
+        "like_count": 39,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 7158
+      },
+      "text": "The Aave App waitlist is now live.\n\nIf you want to be the first to try it out, sign up today and refer your friends.\n\nGet started here: https://t.co/KXuU32A7VH",
+      "conversation_id": "1992645612555084231",
+      "edit_history_tweet_ids": [
+        "1992645627361296424"
+      ],
+      "entities": {
+        "annotations": [
+          {
+            "start": 4,
+            "end": 11,
+            "probability": 0.8953,
+            "type": "Other",
+            "normalized_text": "Aave App"
+          }
+        ],
+        "urls": [
+          {
+            "start": 136,
+            "end": 159,
+            "url": "https://t.co/KXuU32A7VH",
+            "expanded_url": "https://aave.com/app",
+            "display_url": "aave.com/app",
+            "unwound_url": "https://aave.com/app"
+          }
+        ]
+      },
+      "id": "1992645627361296424"
+    },
+    {
+      "created_at": "2025-11-23T17:25:12.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 2,
+        "like_count": 60,
+        "quote_count": 2,
+        "bookmark_count": 7,
+        "impression_count": 11077
+      },
+      "text": "Most importantly, the Aave App passes the \"Fintech Test.\"\n\nTo pass this test, you place someone in front of a fintech app and ask, \"Is it powered by blockchains?\" \n\nIf they can't answer with certainty, it passes. This is critical for mass adoption. https://t.co/Yzy64O2FZK",
+      "conversation_id": "1992645612555084231",
+      "edit_history_tweet_ids": [
+        "1992645623565492556"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1992642317853839360"
+        ]
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 22,
+            "end": 29,
+            "probability": 0.8362,
+            "type": "Other",
+            "normalized_text": "Aave App"
+          },
+          {
+            "start": 43,
+            "end": 54,
+            "probability": 0.6965,
+            "type": "Other",
+            "normalized_text": "Fintech Test"
+          }
+        ],
+        "urls": [
+          {
+            "start": 249,
+            "end": 272,
+            "url": "https://t.co/Yzy64O2FZK",
+            "expanded_url": "https://x.com/aave/status/1992645623565492556/photo/1",
+            "display_url": "pic.x.com/Yzy64O2FZK",
+            "media_key": "3_1992642317853839360"
+          }
+        ]
+      },
+      "id": "1992645623565492556",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G6dJoXAW0AAfyHW.jpg",
+          "width": 3840,
+          "height": 2160,
+          "type": "photo",
+          "media_key": "3_1992642317853839360"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-11-23T17:25:11.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 27,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "impression_count": 2010
+      },
+      "text": "With industry-leading rates, zero-fee onramping, and up to $1M in balance protection, Aave App is in a category of its own.\n\nUnder the hood, it's powered by Aave Protocol, which is already home to over $50B deposits and 2.5M+ users. https://t.co/DpNWnMBXUo",
+      "conversation_id": "1992645612555084231",
+      "edit_history_tweet_ids": [
+        "1992645619479896090"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1992642228431343616"
+        ]
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 86,
+            "end": 93,
+            "probability": 0.8484,
+            "type": "Other",
+            "normalized_text": "Aave App"
+          },
+          {
+            "start": 157,
+            "end": 169,
+            "probability": 0.8065,
+            "type": "Other",
+            "normalized_text": "Aave Protocol"
+          }
+        ],
+        "urls": [
+          {
+            "start": 233,
+            "end": 256,
+            "url": "https://t.co/DpNWnMBXUo",
+            "expanded_url": "https://x.com/aave/status/1992645619479896090/photo/1",
+            "display_url": "pic.x.com/DpNWnMBXUo",
+            "media_key": "3_1992642228431343616"
+          }
+        ]
+      },
+      "id": "1992645619479896090",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G6dJjJ4X0AAjV_a.jpg",
+          "width": 4096,
+          "height": 2731,
+          "type": "photo",
+          "media_key": "3_1992642228431343616"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-11-23T17:25:11.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 3,
+        "like_count": 25,
+        "quote_count": 1,
+        "bookmark_count": 1,
+        "impression_count": 2320
+      },
+      "text": "Aave App is a brand-new app designed and engineered by Aave Labs for everyone.\n\nAt its core, it's a user-friendly savings tool, and it makes DeFi truly accessible to all. https://t.co/FucMGZW3O5",
+      "conversation_id": "1992645612555084231",
+      "edit_history_tweet_ids": [
+        "1992645616359391410"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1992642065553825792"
+        ]
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 7,
+            "probability": 0.908,
+            "type": "Other",
+            "normalized_text": "Aave App"
+          },
+          {
+            "start": 55,
+            "end": 63,
+            "probability": 0.5031,
+            "type": "Other",
+            "normalized_text": "Aave Labs"
+          },
+          {
+            "start": 141,
+            "end": 144,
+            "probability": 0.6332,
+            "type": "Other",
+            "normalized_text": "DeFi"
+          }
+        ],
+        "urls": [
+          {
+            "start": 171,
+            "end": 194,
+            "url": "https://t.co/FucMGZW3O5",
+            "expanded_url": "https://x.com/aave/status/1992645616359391410/photo/1",
+            "display_url": "pic.x.com/FucMGZW3O5",
+            "media_key": "3_1992642065553825792"
+          }
+        ]
+      },
+      "id": "1992645616359391410",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G6dJZrHWIAAZJKS.jpg",
+          "width": 3840,
+          "height": 2160,
+          "type": "photo",
+          "media_key": "3_1992642065553825792"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-11-23T17:25:10.000Z",
+      "public_metrics": {
+        "retweet_count": 32,
+        "reply_count": 26,
+        "like_count": 284,
+        "quote_count": 13,
+        "bookmark_count": 31,
+        "impression_count": 67300
+      },
+      "text": "During @EFDevconnect, we announced Aave App.\n\nThen, @0xMari0 took the stage to explain why we're building it, what makes it special, and how it will onboard millions of users. https://t.co/EJbzmJEYLd",
+      "conversation_id": "1992645612555084231",
+      "entities": {
+        "mentions": [
+          {
+            "start": 7,
+            "end": 20,
+            "username": "EFDevconnect",
+            "id": "1455209024996139024"
+          },
+          {
+            "start": 52,
+            "end": 60,
+            "username": "0xMari0",
+            "id": "862032400393678848"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 35,
+            "end": 42,
+            "probability": 0.9361,
+            "type": "Other",
+            "normalized_text": "Aave App"
+          }
+        ],
+        "urls": [
+          {
+            "start": 176,
+            "end": 199,
+            "url": "https://t.co/EJbzmJEYLd",
+            "expanded_url": "https://x.com/aave/status/1992645612555084231/photo/1",
+            "display_url": "pic.x.com/EJbzmJEYLd",
+            "media_key": "3_1992641939754143744"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1992645612555084231"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1992641939754143744"
+        ]
+      },
+      "id": "1992645612555084231",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G6dJSWeXUAAOx00.jpg",
+          "width": 4096,
+          "height": 2731,
+          "type": "photo",
+          "media_key": "3_1992641939754143744"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-11-21T20:08:53.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 2,
+        "like_count": 34,
+        "quote_count": 0,
+        "bookmark_count": 3,
+        "impression_count": 8551
+      },
+      "text": "Watch it here: https://t.co/599WsxnflQ https://t.co/Ll1FzI23G8",
+      "conversation_id": "1991962032908939698",
+      "edit_history_tweet_ids": [
+        "1991962037145174464"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1991961394892144640"
+        ]
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 15,
+            "end": 38,
+            "url": "https://t.co/599WsxnflQ",
+            "expanded_url": "https://youtu.be/4dXaHUUQwfI",
+            "display_url": "youtu.be/4dXaHUUQwfI",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1991926069960880128/kaeNPMO6?format=jpg&name=orig",
+                "width": 480,
+                "height": 360
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1991926069960880128/kaeNPMO6?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "The New Architecture of Credit by Stani Kulechov - Devconnect",
+            "description": "Speaker: Stani KulechovEvent: Ethereum Day (Devconnect Argentina 2025) Keywords: DeFi, Aave, decentralized financeAbout Devconnect Devconnect is a week-lon...",
+            "unwound_url": "https://www.youtube.com/watch?v=4dXaHUUQwfI&feature=youtu.be"
+          },
+          {
+            "start": 39,
+            "end": 62,
+            "url": "https://t.co/Ll1FzI23G8",
+            "expanded_url": "https://x.com/aave/status/1991962037145174464/photo/1",
+            "display_url": "pic.x.com/Ll1FzI23G8",
+            "media_key": "3_1991961394892144640"
+          }
+        ]
+      },
+      "id": "1991962037145174464",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G6TeVbTWgAADIl3.jpg",
+          "width": 4096,
+          "height": 2731,
+          "type": "photo",
+          "media_key": "3_1991961394892144640"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-11-21T20:08:52.000Z",
+      "public_metrics": {
+        "retweet_count": 29,
+        "reply_count": 28,
+        "like_count": 300,
+        "quote_count": 3,
+        "bookmark_count": 12,
+        "impression_count": 22598
+      },
+      "text": "At @EFDevconnect, @StaniKulechov talked about credit as the engine of civilization and how Aave is evolving into the credit layer for the future. https://t.co/yn32Oo0WQu",
+      "conversation_id": "1991962032908939698",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 16,
+            "username": "EFDevconnect",
+            "id": "1455209024996139024"
+          },
+          {
+            "start": 18,
+            "end": 32,
+            "username": "StaniKulechov",
+            "id": "952921795316912133"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 91,
+            "end": 94,
+            "probability": 0.7923,
+            "type": "Other",
+            "normalized_text": "Aave"
+          }
+        ],
+        "urls": [
+          {
+            "start": 146,
+            "end": 169,
+            "url": "https://t.co/yn32Oo0WQu",
+            "expanded_url": "https://x.com/aave/status/1991962032908939698/photo/1",
+            "display_url": "pic.x.com/yn32Oo0WQu",
+            "media_key": "3_1991961350088626176"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1991962032908939698"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1991961350088626176"
+        ]
+      },
+      "id": "1991962032908939698",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G6TeS0ZXEAA-KWX.jpg",
+          "width": 4096,
+          "height": 2731,
+          "type": "photo",
+          "media_key": "3_1991961350088626176"
+        }
+      ]
+    },
+    {
+      "created_at": "2025-11-20T14:14:35.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 22,
+        "quote_count": 0,
+        "bookmark_count": 3,
+        "impression_count": 6291
+      },
+      "text": "Get started here: https://t.co/AAHwKeG6Ht",
+      "conversation_id": "1991510481232900261",
+      "edit_history_tweet_ids": [
+        "1991510487352393904"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 18,
+            "end": 41,
+            "url": "https://t.co/AAHwKeG6Ht",
+            "expanded_url": "https://tangem.com/en/blog/post/yield-mode/",
+            "display_url": "tangem.com/en/blog/post/y…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1991509132093104129/KM3HIwcn?format=jpg&name=orig",
+                "width": 1656,
+                "height": 870
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1991509132093104129/KM3HIwcn?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "How to Generate Yield on Stablecoins in a Cold Wallet | Tangem Blog",
+            "description": "How to Generate Yield on Stablecoins in a Cold Wallet, many useful articles about digital assets on the Tangem Wallet blog.",
+            "unwound_url": "https://tangem.com/en/blog/post/yield-mode/"
+          }
+        ]
+      },
+      "id": "1991510487352393904"
+    },
+    {
+      "created_at": "2025-11-20T14:14:34.000Z",
+      "in_reply_to_user_id": "867100084248469505",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 29,
+        "quote_count": 1,
+        "bookmark_count": 1,
+        "impression_count": 6673
+      },
+      "text": "Yield Mode is built into the Tangem Wallet and allows users to supply assets directly to Aave.\n\nBy integrating with Aave, Tangem can provide their users access to DeFi's largest, and most trusted, lending protocol.",
+      "conversation_id": "1991510481232900261",
+      "edit_history_tweet_ids": [
+        "1991510484982661339"
+      ],
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 9,
+            "probability": 0.7684,
+            "type": "Other",
+            "normalized_text": "Yield Mode"
+          },
+          {
+            "start": 29,
+            "end": 41,
+            "probability": 0.8748,
+            "type": "Other",
+            "normalized_text": "Tangem Wallet"
+          },
+          {
+            "start": 89,
+            "end": 92,
+            "probability": 0.589,
+            "type": "Other",
+            "normalized_text": "Aave"
+          },
+          {
+            "start": 116,
+            "end": 119,
+            "probability": 0.7215,
+            "type": "Other",
+            "normalized_text": "Aave"
+          },
+          {
+            "start": 122,
+            "end": 127,
+            "probability": 0.5949,
+            "type": "Other",
+            "normalized_text": "Tangem"
+          },
+          {
+            "start": 163,
+            "end": 166,
+            "probability": 0.5925,
+            "type": "Other",
+            "normalized_text": "DeFi"
+          }
+        ]
+      },
+      "id": "1991510484982661339"
+    },
+    {
+      "created_at": "2025-11-20T14:14:33.000Z",
+      "public_metrics": {
+        "retweet_count": 50,
+        "reply_count": 32,
+        "like_count": 458,
+        "quote_count": 8,
+        "bookmark_count": 37,
+        "impression_count": 49396
+      },
+      "text": "Introducing @Tangem Yield Mode, powered by Aave.\n\nAccess yield in seconds within your self-custodial wallet. https://t.co/Qtm5U2x1IA",
+      "conversation_id": "1991510481232900261",
+      "entities": {
+        "mentions": [
+          {
+            "start": 12,
+            "end": 19,
+            "username": "Tangem",
+            "id": "922794323233603584"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 20,
+            "end": 29,
+            "probability": 0.9336,
+            "type": "Other",
+            "normalized_text": "Yield Mode"
+          },
+          {
+            "start": 43,
+            "end": 46,
+            "probability": 0.6995,
+            "type": "Other",
+            "normalized_text": "Aave"
+          }
+        ],
+        "urls": [
+          {
+            "start": 109,
+            "end": 132,
+            "url": "https://t.co/Qtm5U2x1IA",
+            "expanded_url": "https://x.com/aave/status/1991510481232900261/photo/1",
+            "display_url": "pic.x.com/Qtm5U2x1IA",
+            "media_key": "3_1991491069645651968"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1991510481232900261"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1991491069645651968"
+        ]
+      },
+      "id": "1991510481232900261",
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/G6Myk5OXgAAVNuw.jpg",
+          "width": 4096,
+          "height": 2193,
+          "type": "photo",
+          "media_key": "3_1991491069645651968"
+        }
+      ]
+    }
+  ]
+}

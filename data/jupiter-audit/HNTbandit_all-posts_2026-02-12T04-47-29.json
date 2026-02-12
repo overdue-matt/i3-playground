@@ -1,0 +1,642 @@
+{
+  "username": "HNTbandit",
+  "type": "all-posts",
+  "count": 10,
+  "timestamp": "2026-02-12T04:47:29.087Z",
+  "data": [
+    {
+      "conversation_id": "2021630317954801823",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "start": 31,
+              "end": 38,
+              "username": "helium",
+              "id": "2434121118"
+            },
+            {
+              "start": 485,
+              "end": 498,
+              "username": "aidan_builds",
+              "id": "1402636143418560515"
+            }
+          ]
+        },
+        "text": "300 hotspots doing 5% of total @helium network OFFLOAD offload is wild\n\nthe deployment strategy is what's interesting here, laundromats, restaurants, gyms, etc. places where people actually are with their phones on for extended periods\n\nHIGH TRAFIC commercial spots > spreading hardware thin and praying for coverage.\n\n\"99% passive\" means you literally plug it in and forget it exists while you're just capturing existing foot traffic and letting carriers pay you for offload. \n\nprops @aidan_builds"
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 281,
+            "end": 304,
+            "url": "https://t.co/nMPSW25JGl",
+            "expanded_url": "https://twitter.com/aidan_builds/status/2021351647457444087",
+            "display_url": "x.com/aidan_builds/s…"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 31,
+            "end": 38,
+            "username": "helium",
+            "id": "2434121118"
+          }
+        ]
+      },
+      "id": "2021630317954801823",
+      "text": "300 hotspots doing 5% of total @helium network OFFLOAD offload is wild\n\nthe deployment strategy is what's interesting here, laundromats, restaurants, gyms, etc. places where people actually are with their phones on for extended periods\n\nHIGH TRAFIC commercial spots > spreading hardware thin and praying for coverage.\n\n\"99% passive\" means you literally plug it in and forget it exists while you're just capturing existing foot traffic and letting carriers pay you for offload. \n\nprops @aidan_builds",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 11,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 726
+      },
+      "edit_history_tweet_ids": [
+        "2021630317954801823"
+      ],
+      "created_at": "2026-02-11T17:00:02.000Z"
+    },
+    {
+      "conversation_id": "2021580183481069990",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "start": 48,
+              "end": 55,
+              "username": "helium",
+              "id": "2434121118"
+            },
+            {
+              "start": 498,
+              "end": 505,
+              "username": "Helium",
+              "id": "2434121118"
+            }
+          ]
+        },
+        "text": "why 90% of crypto FAILS past this point and how @helium crossed it SUCCESSFULLY.\n\ncrypto is at a turning point, and ngl, plenty of projects won’t survive this bear market. if you really want to spot the winners, watch for the chasm line for the projects with good PMF.\n\nthe chasm represents the gap where 95% of tech products fail, caught between early adopters and the mainstream audience.\n\nWE'RE NOT EVEN CLOSE TO THE EXPONENTIAL PHASE\n\n> early adopters = 13.5% of market\n> early majority = 34%\n\n@Helium has successfully secured enterprise partnerships and is now positioned to scale, having received the necessary endorsement from actual telecom companies. we have yet to enter the phase where significant volume becomes evident.\n\ncrossing chasm is crucial here.\n\nyou know what happens when infrastructure crosses the chasm with real PMF? it doesn’t just double in value, it gets fully repriced.\n\nwe are witnessing the setup unfold in real time, yet most folks believe they have missed the boat. in reality, carrier offload revenue is growing at a staggering 60% QoQ and the demand will only go up from here."
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 11,
+            "end": 16,
+            "probability": 0.5011,
+            "type": "Other",
+            "normalized_text": "crypto"
+          },
+          {
+            "start": 82,
+            "end": 87,
+            "probability": 0.6674,
+            "type": "Other",
+            "normalized_text": "crypto"
+          }
+        ],
+        "urls": [
+          {
+            "start": 280,
+            "end": 303,
+            "url": "https://t.co/E4EB4OmvT0",
+            "expanded_url": "https://x.com/HNTbandit/status/2021580183481069990/photo/1",
+            "display_url": "pic.x.com/E4EB4OmvT0",
+            "media_key": "3_2021580181379686400"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 48,
+            "end": 55,
+            "username": "helium",
+            "id": "2434121118"
+          }
+        ]
+      },
+      "id": "2021580183481069990",
+      "text": "why 90% of crypto FAILS past this point and how @helium crossed it SUCCESSFULLY.\n\ncrypto is at a turning point, and ngl, plenty of projects won’t survive this bear market. if you really want to spot the winners, watch for the chasm line for the projects with good PMF.\n\nthe chasm represents the gap where 95% of tech products fail, caught between early adopters and the mainstream audience.\n\nWE'RE NOT EVEN CLOSE TO THE EXPONENTIAL PHASE\n\n> early adopters = 13.5% of market\n> early majority = 34%\n\n@Helium has successfully secured enterprise partnerships and is now positioned to scale, having received the necessary endorsement from actual telecom companies. we have yet to enter the phase where significant volume becomes evident.\n\ncrossing chasm is crucial here.\n\nyou know what happens when infrastructure crosses the chasm with real PMF? it doesn’t just double in value, it gets fully repriced.\n\nwe are witnessing the setup unfold in real time, yet most folks believe they have missed the boat. in reality, carrier offload revenue is growing at a staggering 60% QoQ and the demand will only go up from here.",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 6,
+        "like_count": 46,
+        "quote_count": 1,
+        "bookmark_count": 5,
+        "impression_count": 988
+      },
+      "edit_history_tweet_ids": [
+        "2021580183481069990"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_2021580181379686400"
+        ]
+      },
+      "created_at": "2026-02-11T13:40:49.000Z",
+      "media": [
+        {
+          "type": "photo",
+          "media_key": "3_2021580181379686400",
+          "height": 848,
+          "url": "https://pbs.twimg.com/media/HA4YdtQbIAAEorJ.jpg",
+          "width": 1200
+        }
+      ]
+    },
+    {
+      "conversation_id": "2021351219705360816",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "start": 68,
+              "end": 75,
+              "username": "helium",
+              "id": "2434121118"
+            }
+          ]
+        },
+        "text": "high foot fall > low density place. \n\nit's not complicated when the @helium business model actually works.\n\nyou don't need to convince people or run ads or do community calls. you just put infrastructure where demand exists and carriers pay you to use it\n\nits so sad that crypto spent years trying to create artificial demand through tokenomics. turns out you can just... solve a real problem and let the economics speak for themselves."
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 275,
+            "end": 280,
+            "probability": 0.5447,
+            "type": "Other",
+            "normalized_text": "crypto"
+          }
+        ],
+        "urls": [
+          {
+            "start": 282,
+            "end": 305,
+            "url": "https://t.co/Q83vtHfyxK",
+            "expanded_url": "https://twitter.com/MaknBank1/status/2021169198227923290",
+            "display_url": "x.com/MaknBank1/stat…"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 71,
+            "end": 78,
+            "username": "helium",
+            "id": "2434121118"
+          }
+        ]
+      },
+      "id": "2021351219705360816",
+      "text": "high foot fall > low density place. \n\nit's not complicated when the @helium business model actually works.\n\nyou don't need to convince people or run ads or do community calls. you just put infrastructure where demand exists and carriers pay you to use it\n\nits so sad that crypto spent years trying to create artificial demand through tokenomics. turns out you can just... solve a real problem and let the economics speak for themselves.",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 20,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 600
+      },
+      "edit_history_tweet_ids": [
+        "2021351219705360816"
+      ],
+      "created_at": "2026-02-10T22:31:00.000Z"
+    },
+    {
+      "conversation_id": "2021275471976202561",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "start": 348,
+              "end": 355,
+              "username": "helium",
+              "id": "2434121118"
+            }
+          ]
+        },
+        "text": "helium just proved something critical about its REAL DEMAND\n\nwe're back up to $40K daily DC burns and climbing\n\nbut how? carrier offload and subscriber data went bonkers. \n\nthe sole reason they paused buybacks a few months back is cuz they knew organic demand was strong enough to carry the network without artificial support, and they were right\n\n@helium went from half programmatic burns to mostly organic demand and kept accelerating anyway."
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 5,
+            "probability": 0.574,
+            "type": "Other",
+            "normalized_text": "helium"
+          }
+        ],
+        "urls": [
+          {
+            "start": 281,
+            "end": 304,
+            "url": "https://t.co/6o2xfO1Zcs",
+            "expanded_url": "https://x.com/HNTbandit/status/2021275471976202561/photo/1",
+            "display_url": "pic.x.com/6o2xfO1Zcs",
+            "media_key": "3_2021264261855768576"
+          }
+        ]
+      },
+      "id": "2021275471976202561",
+      "text": "helium just proved something critical about its REAL DEMAND\n\nwe're back up to $40K daily DC burns and climbing\n\nbut how? carrier offload and subscriber data went bonkers. \n\nthe sole reason they paused buybacks a few months back is cuz they knew organic demand was strong enough to carry the network without artificial support, and they were right\n\n@helium went from half programmatic burns to mostly organic demand and kept accelerating anyway.",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 4,
+        "like_count": 44,
+        "quote_count": 1,
+        "bookmark_count": 2,
+        "impression_count": 3497
+      },
+      "edit_history_tweet_ids": [
+        "2021275471976202561"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_2021264261855768576"
+        ]
+      },
+      "created_at": "2026-02-10T17:30:00.000Z",
+      "media": [
+        {
+          "type": "photo",
+          "media_key": "3_2021264261855768576",
+          "height": 500,
+          "url": "https://pbs.twimg.com/media/HAz5IxUa8AAlJ3R.png",
+          "width": 900
+        }
+      ]
+    },
+    {
+      "conversation_id": "2021258649562395077",
+      "entities": {
+        "annotations": [
+          {
+            "start": 44,
+            "end": 49,
+            "probability": 0.4948,
+            "type": "Other",
+            "normalized_text": "crypto"
+          },
+          {
+            "start": 211,
+            "end": 216,
+            "probability": 0.5636,
+            "type": "Other",
+            "normalized_text": "TradFi"
+          }
+        ],
+        "urls": [
+          {
+            "start": 0,
+            "end": 23,
+            "url": "https://t.co/r2KYKeES2j",
+            "expanded_url": "https://x.com/WatcherGuru/status/2021256644668039577/video/1",
+            "display_url": "pic.x.com/r2KYKeES2j",
+            "media_key": "13_2021256586493128704"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 118,
+            "end": 125,
+            "username": "helium",
+            "id": "2434121118"
+          }
+        ]
+      },
+      "attachments": {
+        "media_source_tweet_id": [
+          "2021256644668039577"
+        ],
+        "media_keys": [
+          "13_2021256586493128704"
+        ]
+      },
+      "id": "2021258649562395077",
+      "text": "https://t.co/r2KYKeES2j bessent calling for crypto legislation means institutions can finally deploy. \n\nprojects like @helium with real carrier revenue and deflationary tokenomics are about to get repriced when TradFi realizes fundamentals actually exist in this space.",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 18,
+        "quote_count": 1,
+        "bookmark_count": 3,
+        "impression_count": 839
+      },
+      "edit_history_tweet_ids": [
+        "2021258649562395077"
+      ],
+      "created_at": "2026-02-10T16:23:09.000Z",
+      "media": [
+        {
+          "type": "video",
+          "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021256586493128704/img/c4YFtCHukYbd_dO0.jpg",
+          "media_key": "13_2021256586493128704",
+          "height": 720,
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "conversation_id": "2020972488105345222",
+      "in_reply_to_user_id": "1971231021460008960",
+      "entities": {
+        "urls": [
+          {
+            "start": 8,
+            "end": 31,
+            "url": "https://t.co/7Eebzh5Eot",
+            "expanded_url": "https://www.coindesk.com/markets/2026/01/14/more-than-half-of-all-crypto-tokens-have-failed-and-most-died-in-2025",
+            "display_url": "coindesk.com/markets/2026/0…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/2020972503355777024/95Wlf_tO?format=jpg&name=orig",
+                "width": 810,
+                "height": 540
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/2020972503355777024/95Wlf_tO?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "More than half of all crypto tokens have failed — and most died in 2025",
+            "description": "Over 13.4 million tokens have been erased between mid-2021 and 2025, according to a new analysis by CoinGecko.",
+            "unwound_url": "https://www.coindesk.com/markets/2026/01/14/more-than-half-of-all-crypto-tokens-have-failed-and-most-died-in-2025"
+          }
+        ]
+      },
+      "id": "2020972500310765789",
+      "text": "source: https://t.co/7Eebzh5Eot",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 80
+      },
+      "edit_history_tweet_ids": [
+        "2020972500310765789"
+      ],
+      "created_at": "2026-02-09T21:26:06.000Z"
+    },
+    {
+      "conversation_id": "2020972488105345222",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "start": 383,
+              "end": 390,
+              "username": "helium",
+              "id": "2434121118"
+            }
+          ],
+          "cashtags": [
+            {
+              "start": 518,
+              "end": 522,
+              "tag": "HNT"
+            }
+          ]
+        },
+        "text": "bear markets reveal who's actually building\n\n2025 saw 11.6 million tokens vanish, accounting for 86.3% of all crypto failures in five years, crumbling in just one wild year.\n\nin Q4 alone, 7.7 million projects bit the dust in 90 days lol. following a brutal October $19 billion liquidation that destroyed overleveraged market positions.\n\nhere's proof of who's actually building here: @helium became deflationary in the same quarter, while AT&T and T-Mobile continued to pay for data offload regardless of HNT's price.\n\n$HNT: survived what 11.6 million others couldn't."
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 277,
+            "end": 300,
+            "url": "https://t.co/wLYaWu2hqt",
+            "expanded_url": "https://x.com/HNTbandit/status/2020972488105345222/photo/1",
+            "display_url": "pic.x.com/wLYaWu2hqt",
+            "media_key": "3_2020972485097996288"
+          }
+        ]
+      },
+      "id": "2020972488105345222",
+      "text": "bear markets reveal who's actually building\n\n2025 saw 11.6 million tokens vanish, accounting for 86.3% of all crypto failures in five years, crumbling in just one wild year.\n\nin Q4 alone, 7.7 million projects bit the dust in 90 days lol. following a brutal October $19 billion liquidation that destroyed overleveraged market positions.\n\nhere's proof of who's actually building here: @helium became deflationary in the same quarter, while AT&T and T-Mobile continued to pay for data offload regardless of HNT's price.\n\n$HNT: survived what 11.6 million others couldn't.",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 12,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 348
+      },
+      "edit_history_tweet_ids": [
+        "2020972488105345222"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_2020972485097996288"
+        ]
+      },
+      "created_at": "2026-02-09T21:26:03.000Z",
+      "media": [
+        {
+          "type": "photo",
+          "media_key": "3_2020972485097996288",
+          "height": 986,
+          "url": "https://pbs.twimg.com/media/HAvvxIMawAAEYhb.jpg",
+          "width": 1116
+        }
+      ]
+    },
+    {
+      "conversation_id": "2020919227226652829",
+      "entities": {
+        "annotations": [
+          {
+            "start": 3,
+            "end": 4,
+            "probability": 0.6078,
+            "type": "Other",
+            "normalized_text": "DR"
+          }
+        ],
+        "urls": [
+          {
+            "start": 228,
+            "end": 251,
+            "url": "https://t.co/Ilv2MDmDo8",
+            "expanded_url": "https://twitter.com/aixbt_agent/status/2020387179755889115",
+            "display_url": "x.com/aixbt_agent/st…"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 7,
+            "end": 19,
+            "username": "aixbt_agent",
+            "id": "1852674305517342720"
+          },
+          {
+            "start": 25,
+            "end": 32,
+            "username": "helium",
+            "id": "2434121118"
+          }
+        ]
+      },
+      "id": "2020919227226652829",
+      "text": "TL:DR: @aixbt_agent said @helium is mispriced rn and honestly it's like watching someone sell a profitable restaurant for the same price as a food truck that hasn't opened yet and everyone just walking past like this is normal. https://t.co/Ilv2MDmDo8",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 6,
+        "like_count": 31,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1263
+      },
+      "edit_history_tweet_ids": [
+        "2020919227226652829"
+      ],
+      "created_at": "2026-02-09T17:54:25.000Z"
+    },
+    {
+      "conversation_id": "2020541545871724575",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "start": 4,
+              "end": 11,
+              "username": "helium",
+              "id": "2434121118"
+            }
+          ],
+          "cashtags": [
+            {
+              "start": 577,
+              "end": 581,
+              "tag": "HNT"
+            }
+          ]
+        },
+        "text": "the @helium network just 7.5x'd DAILY USERS in just 10 months.\n\ndaily active users went from 400,000 daily users to nearly 3 million in a year.\n\nwhat's really puzzling me is that the hotspot count only went from 122K to 124K in the same period, which is basically no change, but the avg number of users per hotspot jumped from 6 to 24, and the revenue data backs this up.\n\ncarrier offload payments rose 60% as AT&T and T-Mobile route more traffic through existing hotspots due to higher subscriber density.\n\nunlike typical infrastructure scaling, which requires more hardware, $HNT already has the hardware in place and is now just utilizing it more.\n\nturns out the real alpha was just... using the infrastructure you already built ."
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 279,
+            "end": 302,
+            "url": "https://t.co/cELa583Nba",
+            "expanded_url": "https://x.com/HNTbandit/status/2020541545871724575/photo/1",
+            "display_url": "pic.x.com/cELa583Nba",
+            "media_key": "3_2020541543904645120"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 4,
+            "end": 11,
+            "username": "helium",
+            "id": "2434121118"
+          }
+        ]
+      },
+      "id": "2020541545871724575",
+      "text": "the @helium network just 7.5x'd DAILY USERS in just 10 months.\n\ndaily active users went from 400,000 daily users to nearly 3 million in a year.\n\nwhat's really puzzling me is that the hotspot count only went from 122K to 124K in the same period, which is basically no change, but the avg number of users per hotspot jumped from 6 to 24, and the revenue data backs this up.\n\ncarrier offload payments rose 60% as AT&T and T-Mobile route more traffic through existing hotspots due to higher subscriber density.\n\nunlike typical infrastructure scaling, which requires more hardware, $HNT already has the hardware in place and is now just utilizing it more.\n\nturns out the real alpha was just... using the infrastructure you already built .",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 4,
+        "like_count": 56,
+        "quote_count": 1,
+        "bookmark_count": 3,
+        "impression_count": 1340
+      },
+      "edit_history_tweet_ids": [
+        "2020541545871724575"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_2020541543904645120"
+        ]
+      },
+      "created_at": "2026-02-08T16:53:39.000Z",
+      "media": [
+        {
+          "type": "photo",
+          "media_key": "3_2020541543904645120",
+          "height": 500,
+          "url": "https://pbs.twimg.com/media/HApn1DJbEAAEeBS.png",
+          "width": 900
+        }
+      ]
+    },
+    {
+      "conversation_id": "2020218773425516618",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "start": 16,
+              "end": 23,
+              "username": "helium",
+              "id": "2434121118"
+            },
+            {
+              "start": 635,
+              "end": 647,
+              "username": "Blockworks_",
+              "id": "989912836901089282"
+            }
+          ]
+        },
+        "text": "looking at this @helium revenue breakdown differently\n\n> blue section = carriers paying to offload data\ngrew 60% quarter over quarter ($1.37M to $2.19M)\n\n> purple section = discontinued subscriber rewards program (this doesn't matter for future revenue tho)\n\nso basically you have telecom giants voluntarily increasing their infrastructure spend on a decentralized network every single quarter\n\nand this is with only 124K hotspots deployed. network's not even trying to scale hardware anymore, just absorbing carrier demand with what's already there.\n\nTL:DR: Carrier offloads are skyrocketing, brace yourself for a wild ride.\n\nsource: @Blockworks_"
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 287,
+            "end": 310,
+            "url": "https://t.co/gnzATuE44Q",
+            "expanded_url": "https://x.com/HNTbandit/status/2020218773425516618/photo/1",
+            "display_url": "pic.x.com/gnzATuE44Q",
+            "media_key": "3_2020218769847775233"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 16,
+            "end": 23,
+            "username": "helium",
+            "id": "2434121118"
+          }
+        ]
+      },
+      "id": "2020218773425516618",
+      "text": "looking at this @helium revenue breakdown differently\n\n> blue section = carriers paying to offload data\ngrew 60% quarter over quarter ($1.37M to $2.19M)\n\n> purple section = discontinued subscriber rewards program (this doesn't matter for future revenue tho)\n\nso basically you have telecom giants voluntarily increasing their infrastructure spend on a decentralized network every single quarter\n\nand this is with only 124K hotspots deployed. network's not even trying to scale hardware anymore, just absorbing carrier demand with what's already there.\n\nTL:DR: Carrier offloads are skyrocketing, brace yourself for a wild ride.\n\nsource: @Blockworks_",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 2,
+        "like_count": 48,
+        "quote_count": 0,
+        "bookmark_count": 5,
+        "impression_count": 1482
+      },
+      "edit_history_tweet_ids": [
+        "2020218773425516618"
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_2020218769847775233"
+        ]
+      },
+      "created_at": "2026-02-07T19:31:04.000Z",
+      "media": [
+        {
+          "type": "photo",
+          "media_key": "3_2020218769847775233",
+          "height": 1080,
+          "url": "https://pbs.twimg.com/media/HAlCRIFacAEV5EJ.jpg",
+          "width": 1920
+        }
+      ]
+    }
+  ]
+}
