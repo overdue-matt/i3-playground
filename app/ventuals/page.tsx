@@ -5,6 +5,7 @@ import Link from "next/link";
 import { PieChart, Pie, Cell, ResponsiveContainer, Tooltip } from "recharts";
 
 interface StockData {
+  [key: string]: string | number;
   name: string;
   value: number;
   marketCap: number;
